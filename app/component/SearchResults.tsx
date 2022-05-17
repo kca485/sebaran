@@ -21,8 +21,8 @@ function SearchResults(props: SearchResultsProps) {
             onClick={onPickResult}
             className="w-full text-left outline-1 hover:outline"
           >
-            <p>{properties.NAMA}</p>
-            <p>{[properties.DUSUN, properties.DESA, properties.KECAMATAN].join(', ')}</p>
+            <p className="font-semibold">{properties.NAMA}</p>
+            <p className="text-sm">{properties.DESA && [properties.DESA, properties.KECAMATAN].join(', ')}</p>
           </button>
         </li>
       );

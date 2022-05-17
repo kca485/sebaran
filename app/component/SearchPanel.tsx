@@ -51,7 +51,14 @@ function Search(props: SearchProps) {
 
   return (
     <div className="absolute top-0 right-0 z-1100 h-full max-h-full w-full max-w-sm overflow-y-scroll bg-white px-6">
-      <button type="button" onClick={onSearchClose} className="float-right">Tutup</button>
+      <button
+        type="button"
+        onClick={onSearchClose}
+        className="absolute right-0 mt-2.5 mr-2.5 flex"
+      >
+        <span className="bg-[url('./images/close-line.svg')] bg-no-repeat bg-center h-7 w-7" />
+        <span className="sr-only">Tutup panel pencarian</span>
+      </button>
       <SearchForm
         query={query}
         onQueryChange={handleQueryChange}

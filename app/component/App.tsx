@@ -33,9 +33,10 @@ function App() {
             <button
               type="button"
               onClick={handleSearchPanel}
-              className="absolute z-1100 right-0"
+              className="absolute z-1100 right-0 border-2 border-solid border-black border-opacity-20 rounded bg-white mt-2.5 mr-2.5 flex"
             >
-              Cari
+              <span className="bg-[url('./images/search-line.svg')] bg-no-repeat bg-center h-7 w-7" />
+              <span className="sr-only">Buka panel pencarian</span>
             </button>
           )
       }
@@ -101,7 +102,7 @@ function initMap() {
               <td>${properties && properties.REFERENSI ? properties.REFERENSI : ''}</td>
             </tr>
           </table>
-          <a href="https://www.google.com/maps/search/?api=1&query=${location}" target="_blank" rel="noopener noreferrer">Cari di Google Maps</a>`;
+          <a href="https://www.google.com/maps/search/?api=1&query=${location}" target="_blank" rel="noopener noreferrer" class="block mt-2">Cari di Google Maps</a>`;
         marker.bindPopup(popupContent);
       }
     });
