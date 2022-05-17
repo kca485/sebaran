@@ -15,7 +15,12 @@ function SearchResults(props: SearchResultsProps) {
     return properties
       && (
         <li key={result.refIndex} className="my-4">
-          <button id={result.refIndex.toString()} type="button" onClick={onPickResult} className="w-full text-left outline-1 hover:outline">
+          <button
+            id={result.refIndex.toString()}
+            type="button"
+            onClick={onPickResult}
+            className="w-full text-left outline-1 hover:outline"
+          >
             <p>{properties.NAMA}</p>
             <p>{[properties.DUSUN, properties.DESA, properties.KECAMATAN].join(', ')}</p>
           </button>

@@ -46,6 +46,7 @@ function Search(props: SearchProps) {
         mapRef.current.flyTo(geometry.coordinates as L.LatLngExpression, 16);
       }
     }
+    onSearchClose();
   };
 
   return (
