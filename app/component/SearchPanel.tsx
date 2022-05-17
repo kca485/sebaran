@@ -39,7 +39,7 @@ function Search(props: SearchProps) {
   };
 
   const handlePickResult = (e: React.MouseEvent) => {
-    const { id } = e.target as HTMLElement;
+    const { id } = e.currentTarget;
     const { geometry } = featuresData[parseInt(id, 10)];
     if (geometry.type === 'Point') {
       if (mapRef && mapRef.current) {
@@ -49,8 +49,8 @@ function Search(props: SearchProps) {
   };
 
   return (
-    <div className="absolute top-0 right-0 z-1000">
-      <button type="button" onClick={onSearchClose}>Tutup</button>
+    <div className="absolute top-0 right-0 z-1100 h-full max-h-full w-full max-w-sm overflow-y-scroll bg-white px-6">
+      <button type="button" onClick={onSearchClose} className="float-right">Tutup</button>
       <SearchForm
         query={query}
         onQueryChange={handleQueryChange}

@@ -12,7 +12,14 @@ function SearchForm(props: SearchFormProps) {
   return (
     <div>
       <label htmlFor="searchInput" className="sr-only">cari gua</label>
-      <input id="searchInput" type="text" value={query} onChange={onQueryChange} onKeyDown={onQuerySearch} />
+      <input
+        id="searchInput"
+        type="text"
+        value={query}
+        onChange={onQueryChange}
+        onKeyDown={onQuerySearch}
+        className="border-2 w-full"
+      />
     </div>
   );
 }

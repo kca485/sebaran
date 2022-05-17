@@ -33,7 +33,7 @@ function App() {
             <button
               type="button"
               onClick={handleSearchPanel}
-              className="absolute z-1000 right-0"
+              className="absolute z-1100 right-0"
             >
               Cari
             </button>

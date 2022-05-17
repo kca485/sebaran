@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       zIndex: {
-        1000: '1000',
+        1100: '1100',
       },
     },
   },
