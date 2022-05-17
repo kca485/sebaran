@@ -1,0 +1,689 @@
+ID;NAMA;DUSUN;DESA;KECAMATAN;JENIS;STATUS;POTENSI;X;Y;SURVEYOR;REFERENSI
+1;Bodeh;;;;Vertikal;Unexplored;;474047;9110162;BCRA;Ground Water Resource 82-83
+2;Ceblok;;;;Vertikal;Mapped;Hidrologi;461559;9112875;BCRA;Ground Water Resource 82-83
+3;Goplak;;;;Vertikal;Mapped;;453978;9106899;BCRA;Ground Water Resource 82-83
+4;Karangwetan;;;;Horisontal;Visited;;451562;9109970;BCRA;Ground Water Resource 82-83
+5;Bendo;;;;Vertikal;Unexplored;;466098;9111714;BCRA;Ground Water Resource 82-83
+6;Karang;;;;Vertikal;Unexplored;;465753;9111309;BCRA;Ground Water Resource 82-83
+7;Karanglampar;;;;Vertikal;Unexplored;;466032;9111484;BCRA;Ground Water Resource 82-83
+8;Jurangjero;;;;Vertikal;Mapped;Hidrologi;466983;9111077;BCRA;Ground Water Resource 82-83
+9;Kenteng;;;;Vertikal;Mapped;;462177;9100273;BCRA;Ground Water Resource 82-83
+10;Jomblang;;;;Vertikal;Mapped;;461626;9103241;BCRA;Ground Water Resource 82-83
+11;Song Gupit;;;;Vertikal;Visited;;461048;9103836;BCRA;Ground Water Resource 82-83
+12;Sumbring;;;;Vertikal;Visited;;461349;9104836;BCRA;Ground Water Resource 82-83
+13;Balong U;;;;Vertikal;Visited;Hidrologi;461078;9103150;BCRA;Ground Water Resource 82-83
+14;Balong B;;;;Vertikal;Visited;;461220;9102983;BCRA;Ground Water Resource 82-83
+15;Sumberejo;;;;Vertikal;Visited;;461334;9102742;BCRA;Ground Water Resource 82-83
+16;Blekonang;;;;Vertikal;Mapped;;460843;9102502;BCRA;Ground Water Resource 82-83
+17;Gesik;;;;Vertikal;Visited;;460370;9103022;BCRA;Ground Water Resource 82-83
+18;Bentar;;;;Vertikal;Visited;;459915;9107847;BCRA;Ground Water Resource 82-83
+19;Ngrapah;;;;Horisontal;Visited;;458954;9107728;BCRA;Ground Water Resource 82-83
+20;Glesung;;;;Vertikal;Mapped;;458787;9111233;BCRA;Ground Water Resource 82-83
+21;Jomblang;;;;Vertikal;Unexplored;;458094;9111154;BCRA;Ground Water Resource 82-83
+22;Macanmati;;;;Vertikal;Unexplored;;457506;9111075;BCRA;Ground Water Resource 82-83
+23;Nglibeng;;;;Vertikal;Visited;;456486;9106637;BCRA;Ground Water Resource 82-83
+24;Kerwo;;;;Vertikal;Visited;;457454;9106290;BCRA;Ground Water Resource 82-83
+25;Jomblang;;;;Vertikal;Visited;;457588;9105807;BCRA;Ground Water Resource 82-83
+26;Jurug;;;;Horisontal;Visited;;456675;9107470;BCRA;Ground Water Resource 82-83
+27;Karang;;;;Vertikal;Visited;;457410;9105104;BCRA;Ground Water Resource 82-83
+28;Tabuhan;;;;Vertikal;Mapped;Hidrologi;457522;9108246;BCRA;Ground Water Resource 82-83
+29;Soroiten;;;;Vertikal;Visited;;454462;9110712;BCRA;Ground Water Resource 82-83
+30;Krinjing;;;;Vertikal;Mapped;;453729;9110732;BCRA;Ground Water Resource 82-83
+31;Gowah;;;;Vertikal;Mapped;;453545;9110738;BCRA;Ground Water Resource 82-83
+32;Tlogodadi;;;;Vertikal;Visited;;452494;9108126;BCRA;Ground Water Resource 82-83
+33;Setro;;;;Vertikal;Mapped;;452446;9105996;BCRA;Ground Water Resource 82-83
+34;Katok;;;;Vertikal;Visited;;452517;9104938;BCRA;Ground Water Resource 82-83
+35;Jowa;;;;Vertikal;Visited;;451582;9104959;BCRA;Ground Water Resource 82-83
+36;Ngegong;;;;Vertikal;Visited;;451143;9102671;BCRA;Ground Water Resource 82-83
+37;Lebak Bareng;;;;Vertikal;Mapped;Hidrologi;452694;9108498;BCRA;Ground Water Resource 82-83
+38;Bamban;;;;Vertikal;Visited;;452839;9108662;BCRA;Ground Water Resource 82-83
+39;Tlogolaran;;;;Vertikal;Visited;;451072;9109346;BCRA;Ground Water Resource 82-83
+40;Mbires;;;;Vertikal;Visited;;451395;9107367;BCRA;Ground Water Resource 82-83
+41;Gelap;;;;Vertikal;Visited;;461448;9112404;BCRA;Ground Water Resource 82-83
+42;Ngoro-oro ciut;;;;Vertikal;Visited;;450802;9107192;BCRA;Ground Water Resource 82-83
+43;Bawongan;;;;Vertikal;Visited;;449855;9107371;BCRA;Ground Water Resource 82-83
+44;Tritis;;;;Horisontal;Unexplored;Tourisme;451410;9106136;BCRA;Ground Water Resource 82-83
+45;Gunung Beteng;;;;Vertikal;Visited;;460826;9110575;BCRA;Ground Water Resource 82-83
+46;Puring;;;;Vertikal;Visited;;459674;9110741;BCRA;Ground Water Resource 82-83
+47;Bawahan;;;;Vertikal;Visited;;459956;9109743;BCRA;Ground Water Resource 82-83
+48;Buhputih;;;;Vertikal;Mapped;Hidrologi;464462;9108264;BCRA;Ground Water Resource 82-83
+49;Sindon;;;;Vertikal;Mapped;Hidrologi;464031;9111456;BCRA;Ground Water Resource 82-83
+50;Ledok;;;;Vertikal;Visited;;463475;9110262;BCRA;Ground Water Resource 82-83
+51;Tong Pocot;;;;Vertikal;Mapped;Hidrologi;463119;9109451;BCRA;Ground Water Resource 82-83
+52;Ledok;;;;Vertikal;Unexplored;;473779;9110086;BCRA;Ground Water Resource 82-83
+53;Cahkeri;;;;Vertikal;Unexplored;;473398;9110789;BCRA;Ground Water Resource 82-83
+54;Jumbleng;;;;Vertikal;Visited;;474611;9103510;BCRA;Ground Water Resource 82-83
+55;Gading;;;;Vertikal;Mapped;;475375;9103702;BCRA;Ground Water Resource 82-83
+56;Sirik;;;;Vertikal;Visited;;474460;9104316;BCRA;Ground Water Resource 82-83
+57;Sawah;;;;Vertikal;Visited;;472532;9107743;BCRA;Ground Water Resource 82-83
+58;Sruput;;;;Vertikal;Visited;;471783;9107974;BCRA;Ground Water Resource 82-83
+59;Blunyah;;;;Horisontal;Visited;;471402;9108480;BCRA;Ground Water Resource 82-83
+60;Kalen;;;;Horisontal;Visited;;470417;9109063;BCRA;Ground Water Resource 82-83
+61;Ombo;;;;Vertikal;Unexplored;;472603;9111788;BCRA;Ground Water Resource 82-83
+62;Sawah;;;;Vertikal;Unexplored;;471766;9111209;BCRA;Ground Water Resource 82-83
+63;Semuluh;;;;Horisontal;Mapped;Hidrologi;464552;9113921;BCRA;Ground Water Resource 82-83
+64;Towati;;;;Vertikal;Visited;;469125;9106928;BCRA;Ground Water Resource 82-83
+65;Sumur;;;;Vertikal;Mapped;Hidrologi;469247;9103753;BCRA;Ground Water Resource 82-83
+66;Jurangjero;;;;Vertikal;Unexplored;;468747;9103680;BCRA;Ground Water Resource 82-83
+67;Ngandong;;;;Vertikal;Unexplored;;468632;9104227;BCRA;Ground Water Resource 82-83
+68;Ngimbes;;;;Vertikal;Unexplored;;468292;9104218;BCRA;Ground Water Resource 82-83
+69;Kluwangan;;;;Vertikal;Visited;;469252;9101279;BCRA;Ground Water Resource 82-83
+70;Glaragahumbo;;;;Vertikal;Visited;;469486;9100085;BCRA;Ground Water Resource 82-83
+71;Sirih;;;;Vertikal;Visited;;468035;9100587;BCRA;Ground Water Resource 82-83
+72;Pucang;;;;Vertikal;Visited;;468717;9099362;BCRA;Ground Water Resource 82-83
+73;Kenteng;;;;Vertikal;Visited;;468020;9098280;BCRA;Ground Water Resource 82-83
+74;Gondang;;;;Vertikal;Visited;;468235;9099789;BCRA;Ground Water Resource 82-83
+75;Wates;;Girisekar;Panggang;Vertikal;Unexplored;;441968;9111820;BCRA;Ground Water Resource 82-83
+76;Ngurik;;Girimulyo;Panggang;Vertikal;Unexplored;;438793;9112604;BCRA;Ground Water Resource 82-83
+77;Legundi;;Girimulyo;Panggang;Vertikal;Visited;;437857;9111542;BCRA;Ground Water Resource 82-83
+78;Soga/ Jurang omah;Wintaos;Girimulyo;Panggang;Vertikal;Mapped;Hidrologi;437672;9110820;BCRA;Ground Water Resource 82-83
+79;Bledok;;Girimulyo;Panggang;Vertikal;Mapped;;437172;9110910;Sekber 95;Ground Water Resource 82-83
+80;Ngrejek;;;;Vertikal;Mapped;;450065;9109754;BCRA;Ground Water Resource 82-83
+81;Ngowe-owe;;;;Horisontal;Mapped;Hidrologi;449572;9110303;BCRA;Ground Water Resource 82-83
+82;Ngegab;;;;Horisontal;Visited;;449312;9109024;BCRA;Ground Water Resource 82-83
+83;Gondang;;;;Vertikal;Mapped;;450013;9108893;BCRA;Ground Water Resource 82-83
+84;Trecep;;;;Vertikal;Mapped;;448605;9107700;BCRA;Ground Water Resource 82-83
+85;Kenongo;;;;Horisontal;Mapped;;449204;9107753;BCRA;Ground Water Resource 82-83
+86;Bobak;;;;Vertikal;Visited;;448946;9106630;BCRA;Ground Water Resource 82-83
+87;Klepu;;;;Vertikal;Visited;;449089;9105178;BCRA;Ground Water Resource 82-83
+88;Jomblang;;;;Vertikal;Visited;;447659;9105657;BCRA;Ground Water Resource 82-83
+89;Santen;;Kanigoro;Saptosari;Vertikal;Visited;;444905;9105637;BCRA;Ground Water Resource 82-83
+90;Klumpit;;Kanigoro;Saptosari;Vertikal;Visited;;444203;9105614;BCRA;Ground Water Resource 82-83
+91;Klumpit;;Kanigoro;Saptosari;Horisontal;Visited;;443806;9105652;BCRA;Ground Water Resource 82-83
+92;Banteng;;Kanigoro;Saptosari;Vertikal;Mapped;;443360;9105678;BCRA;Ground Water Resource 82-83
+93;Karang;;;;Vertikal;Mapped;;450147;9104786;BCRA;Ground Water Resource 82-83
+94;Tlempek;;;;Vertikal;Visited;;450554;9104451;BCRA;Ground Water Resource 82-83
+95;Kuang;;Krambilsa;Paliyan;Vertikal;Visited;;442710;9107365;BCRA;Ground Water Resource 82-83
+96;Jurug;;;;Horisontal;Visited;;458484;9113617;BCRA;Ground Water Resource 82-83
+97;Glendu;;;;Horisontal;Mapped;;459221;9113922;BCRA;Ground Water Resource 82-83
+98;Kebo;;;;Vertikal;Visited;;458060;9113069;BCRA;Ground Water Resource 82-83
+99;Bedesan;;;;Vertikal;Mapped;Hidrologi;457391;9112303;BCRA;Ground Water Resource 82-83
+100;Gedilan;;;;Vertikal;Mapped;;457737;9112664;BCRA;Ground Water Resource 82-83
+101;Jero;;;;Vertikal;Mapped;;461377;9108830;BCRA;Ground Water Resource 82-83
+102;Pendul;;;;Vertikal;Visited;;460474;9107791;BCRA;Ground Water Resource 82-83
+103;Wuluh;;;;Vertikal;Visited;;462477;9106449;BCRA;Ground Water Resource 82-83
+104;Ngepoh;;;;Vertikal;Mapped;;463208;9105369;BCRA;Ground Water Resource 82-83
+105;Toar;;;;Vertikal;Visited;;462653;9104490;BCRA;Ground Water Resource 82-83
+106;Besole;;;;Vertikal;Visited;;463033;9103275;BCRA;Ground Water Resource 82-83
+107;Puleireng;;;;Vertikal;Mapped;;459699;9103422;BCRA;Ground Water Resource 82-83
+108;Mundu;;;;Vertikal;Visited;;462996;9103035;BCRA;Ground Water Resource 82-83
+109;Ledok;;;;Vertikal;Visited;;462531;9103907;BCRA;Ground Water Resource 82-83
+110;Gebang;;;;Vertikal;Visited;;463758;9104525;BCRA;Ground Water Resource 82-83
+111;Penangson;;;;Horisontal;Visited;;466168;9115913;BCRA;Ground Water Resource 82-83
+112;Ngrijing/ Kongkang;;;;Vertikal;Visited;;469305;9112420;BCRA;Ground Water Resource 82-83
+113;Grigak;;;;Vertikal;Visited;;470045;9110752;BCRA;Ground Water Resource 82-83
+114;Jalak Bromo;;;;Vertikal;Mapped;;468422;9106545;BCRA;Ground Water Resource 82-83
+115;Nglampeng;;;;Vertikal;Visited;;469446;9108517;BCRA;Ground Water Resource 82-83
+116;Pucung;;;;Vertikal;Unexplored;;472787;9108707;BCRA;Ground Water Resource 82-83
+117;Jambu;;;;Vertikal;Visited;;472351;9108828;BCRA;Ground Water Resource 82-83
+118;Nujo;;;;Vertikal;Unexplored;;473052;9110449;BCRA;Ground Water Resource 82-83
+119;Jarak;;;;Vertikal;Unexplored;;473512;9106372;BCRA;Ground Water Resource 82-83
+120;Gedawing;;;;Vertikal;Unexplored;;458959;9112464;BCRA;Ground Water Resource 82-83
+121;Cabe;;;;Vertikal;Unexplored;;458710;9112454;BCRA;Ground Water Resource 82-83
+122;Bleron;;Giriharjo;Panggang;Vertikal;Mapped;Hidrologi;436961;9114128;BCRA;Ground Water Resource 82-83
+123;Sentul;;Kanigoro;Krambilsawit;Vertikal;Mapped;Hidrologi;445585;9104083;BCRA;Ground Water Resource 82-83
+124;Tjabe;;;;Vertikal;Visited;;459183;9106230;BCRA;Ground Water Resource 82-83
+125;Bandung;;;;Vertikal;Unexplored;;449379;9111992;BCRA;Ground Water Resource 82-83
+126;Sodong;;;;Horisontal;Mapped;Hidrologi;475968;9111101;BCRA;Ground Water Resource 82-83
+127;Song Gilap;;;;Horisontal;Visited;;475445;9110050;BCRA;Ground Water Resource 82-83
+128;Watugajah;;;;Vertikal;Visited;;472443;9104740;BCRA;Ground Water Resource 82-83
+129;Buh Kidul;;;;Vertikal;Visited;;472601;9103245;BCRA;Ground Water Resource 82-83
+130;Gandek;;;;Vertikal;Mapped;;472403;9103051;BCRA;Ground Water Resource 82-83
+131;Jurug Watu;;;;Vertikal;Visited;;457356;9103566;BCRA;Ground Water Resource 82-83
+132;Ngirowari;;;;Vertikal;Visited;;457299;9103955;BCRA;Ground Water Resource 82-83
+133;Gupakwarak;;;;Vertikal;Visited;;452703;9101732;BCRA;Ground Water Resource 82-83
+134;Blubug;;;;Vertikal;Visited;;457514;9107008;BCRA;Ground Water Resource 82-83
+135;Tirisan;;;;Vertikal;Visited;;459703;9107562;BCRA;Ground Water Resource 82-83
+136;Mojing;;;;Vertikal;Visited;;460524;9106255;BCRA;Ground Water Resource 82-83
+137;Branjang I;;;;Vertikal;Visited;;458660;9103396;BCRA;Ground Water Resource 82-83
+138;Branjang II;;;;Vertikal;Visited;;458584;9103600;BCRA;Ground Water Resource 82-83
+139;Bete;;;;Vertikal;Visited;;477872;9109134;BCRA;Ground Water Resource 82-83
+140;Gadjah;;;;Vertikal;Visited;;477872;9108795;BCRA;Ground Water Resource 82-83
+141;Sodong;;Giriwungu;Panggang;Sumber;Visited;;436046;9112984;BCRA;Ground Water Resource 82-83
+142;Sungai Besar;;Giriharjo;Panggang;Sumber;Visited;Hidrologi;435839;9113727;BCRA;Ground Water Resource 82-83
+143;Ngrenean;;Kanigoro;Saptosari;Sumber;Visited;Hidrologi;446360;9102457;BCRA;Ground Water Resource 82-83
+144;Puniran;;;;Vertikal;Mapped;;462837;9110965;BCRA;Ground Water Resource 82-83
+145;Kamal;;;;Vertikal;Mapped;;453359;9113347;BCRA;Ground Water Resource 82-83
+146;Towati;;;;Vertikal;Mapped;;452774;9111486;BCRA;Ground Water Resource 82-83
+147;Setro;;;;Vertikal;Visited;;453938;9112245;BCRA;Ground Water Resource 82-83
+148;Gempal;;;;Vertikal;Visited;;460727;9109456;BCRA;Ground Water Resource 82-83
+149;NN 6;;;;NC;Unexplored;;460662;9108678;BCRA;Ground Water Resource 82-83
+150;NN 7;;;;NC;Unexplored;;461122;9107877;BCRA;Ground Water Resource 82-83
+151;NN 8;;;;NC;Unexplored;;462070;9108752;BCRA;Ground Water Resource 82-83
+152;Bendo;;;;Vertikal;Visited;;465826;9113809;BCRA;Ground Water Resource 82-83
+153;Lebuh;;;;Vertikal;Visited;;467817;9112928;BCRA;Ground Water Resource 82-83
+154;Sapen;;;;Vertikal;Mapped;Hidrologi;476102;9110892;BCRA;Ground Water Resource 82-83
+155;Kajubang;;Krambilsa;Paliyan;Horisontal;Visited;;442331;9107537;BCRA;Ground Water Resource 82-83
+156;Pringwulong;;Ngloro;Saptosari;Vertikal;Visited;;443286;9108469;BCRA;Ground Water Resource 82-83
+157;Ngampal;;Kanigoro;Saptosari;Vertikal;Visited;;445831;9105665;BCRA;Ground Water Resource 82-83
+158;Telogo Teki;;Ngloro;Saptosari;Horisontal;Visited;;443985;9110271;BCRA;Ground Water Resource 82-83
+159;Ngreneng;;;Semanu;Horisontal;Mapped;Hidrologi;463782;9113101;BCRA;Ground Water Resource 82-83
+160;Toto;;;Semanu;Horisontal;Mapped;Hidrologi;462008;9113887;BCRA;Ground Water Resource 82-83
+161;Kledokan;;;;Horisontal;Mapped;Hidrologi;463896;9106380;BCRA;Ground Water Resource 82-83
+162;Jomblang;;;;Horisontal;Mapped;Hidrologi;473299;9115766;BCRA;Ground Water Resource 82-83
+163;Ngingrong;;;Semanu;Horisontal;Mapped;;454966;9112363;BCRA;Ground Water Resource 82-83
+164;Ngiratan;;;;Vertikal;Mapped;Hidrologi;463975;9105853;BCRA;Ground Water Resource 82-83
+165;Sumelap;;;;Vertikal;Mapped;Hidrologi;464018;9106676;BCRA;Ground Water Resource 82-83
+166;Pozo;;;;Horisontal;Unexplored;;463827;9107257;BCRA;Ground Water Resource 82-83
+167;Tritis;;;;Horisontal;Visited;;453722;9107252;BCRA;Ground Water Resource 82-83
+168;Jomblang;;;;Vertikal;Mapped;;462387;9101211;BCRA;Ground Water Resource 82-83
+169;Buri Omah;;;Semanu;Horisontal;Mapped;Hidrologi;459723;9114261;BCRA;Ground Water Resource 82-83
+170;Ngelo;;;;Vertikal;Visited;;462673;9103712;BCRA;Ground Water Resource 82-83
+171;Bohol;;;;Vertikal;Mapped;;471622;9101756;BCRA;Ground Water Resource 82-83
+172;Daren;;;;Vertikal;Mapped;;474270;9099795;BCRA;Ground Water Resource 82-83
+173;Bribin;;;Semanu;Horisontal;Mapped;Hidrologi;464646;9111531;BCRA;Ground Water Resource 82-83
+174;Sodong;;;Semanu;Horisontal;Mapped;Hidrologi;468193;9109122;BCRA;Ground Water Resource 82-83
+175;Gilap;;;Ponjong;Horisontal;Mapped;Hidrologi;473035;9119231;BCRA;Ground Water Resource 82-83
+176;Serpeng I;;;Semanu;Vertikal;Visited;;456050;9112745;BCRA;Ground Water Resource 82-83
+177;Serpeng II;;;Semanu;Vertikal;Mapped;Hidrologi;455871;9112600;BCRA;Ground Water Resource 82-83
+178;Slili;;;Tepus;Sumber;Visited;Hidrologi;456400;9099611;BCRA;Ground Water Resource 82-83
+179;Sundak;;;Tepus;Sumber;Visited;Hidrologi;456769;9099527;BCRA;Ground Water Resource 82-83
+180;Baron;;;Tepus;Sumber;Visited;Hidrologi;450133;9101616;BCRA;Ground Water Resource 82-83
+181;Ngobaran;;Kanigoro;Saptosari;Sumber;Visited;Hidrologi;445428;9102618;BCRA;Ground Water Resource 82-83
+182;Song Tawing;;;;Horisontal;Mapped;Hidrologi;460398;9112187;BCRA;Ground Water Resource 82-83
+183;Grubug;;;Semanu;Vertikal;Mapped;Hidrologi;460073;9112846;BCRA;Ground Water Resource 82-83
+184;Kenteng;;;Ponjong;Vertikal;Visited;;473324;9106614;BCRA;Ground Water Resource 82-83
+185;Gunung Bolong;;;;Vertikal;Unexplored;;459593;9112562;BCRA;Ground Water Resource 82-83
+186;Ngluweng;;;;Vertikal;Unexplored;;470973;9104315;BCRA;Ground Water Resource 82-83
+187;Pengangson;;Girikerto;Panggang;Vertikal;Mapped;;437614;9107450;BCRA;Ground Water Resource 82-83
+188;Glagah;;Giriwungu;Panggang;Vertikal;Mapped;;437665;9108667;BCRA;Ground Water Resource 82-83
+189;Macanmati/ Watukebo;;Girisekar;Panggang;Vertikal;Mapped;;439638;9110605;BCRA;Ground Water Resource 82-83
+190;Seropan;;Serpeng;Semanu;Vertikal;Mapped;;457627;9111941;BCRA;Ground Water Resource 82-83
+191;Besole;;Girikerto;Panggang;Vertikal;Visited;;437857;9108106;BCRA;Ground Water Resource 82-83
+192;Ponjong;;;;Sumber;Visited;;468422;9117794;BCRA;Ground Water Resource 82-83
+193;Jati;;;;Vertikal;Mapped;;471616;9113193;BCRA;Ground Water Resource 82-83
+194;Pracimantoro;;;;Sumber;Visited;;478709;9109637;BCRA;Ground Water Resource 82-83
+195;Gembuk;;;;Vertikal;Visited;;475341;9105928;BCRA;Ground Water Resource 82-83
+196;Piyuyon;;;;Sumber;Visited;;477414;9094860;BCRA;Ground Water Resource 82-83
+197;Bendungan;;;;Horisontal;Mapped;;469511;9109723;BCRA;Ground Water Resource 82-83
+198;NN 11;;;;AF;Visited;;462336;9102193;BCRA;Ground Water Resource 82-83
+199;Kambil Ketil;Gendungan;Giripurwo;Purwosari;Vertikal;Visited;;435046;9112853;BCRA;Ground Water Resource 82-83
+200;Wediwutoh;;;Semanu;Vertikal;Visited;;463681;9113693;BCRA;Ground Water Resource 82-83
+201;Jurang;;;Semanu;Vertikal;Visited;;463346;9113189;BCRA;Ground Water Resource 82-83
+202;Suci;;;Semanu;Horisontal;Mapped;;460147;9114764;BCRA;Ground Water Resource 82-83
+203;NN 13;;;;Horisontal;Visited;;458684;9114219;BCRA;Ground Water Resource 82-83
+204;NN 14;;;;Vertikal;Visited;;457489;9113959;BCRA;Ground Water Resource 82-83
+205;NN 15;;;;Vertikal;Mapped;;457538;9111755;BCRA;Ground Water Resource 82-83
+206;Suru;;;;Vertikal;Mapped;;457940;9111995;BCRA;Ground Water Resource 82-83
+207;Song Dangal;;;;Horisontal;Visited;;459482;9111959;BCRA;Ground Water Resource 82-83
+208;NN 18;;;;Horisontal;Visited;;459607;9110994;BCRA;Ground Water Resource 82-83
+209;Serpeng;;;Semanu;Vertikal;Visited;;456296;9112659;BCRA;Ground Water Resource 82-83
+210;Banteng;;;;Vertikal;Visited;;452318;9112262;BCRA;Ground Water Resource 82-83
+211;Sumurup;;;Paliyan;Horisontal;Mapped;;451993;9112013;BCRA;Ground Water Resource 82-83
+212;NN 19;;;;Vertikal;Unexplored;;450761;9113092;BCRA;Ground Water Resource 82-83
+213;Grengseng;;;;Horisontal;Visited;;453696;9105983;BCRA;Ground Water Resource 82-83
+214;Batangan;;;;Vertikal;Visited;;451156;9106696;BCRA;Ground Water Resource 82-83
+215;Jero;;;;Vertikal;Mapped;;450061;9106415;BCRA;Ground Water Resource 82-83
+216;Sapi;;Kanigoro;Saptosari;Vertikal;Visited;;445928;9104248;BCRA;Ground Water Resource 82-83
+217;Kapul;;Jetis;Paliyan;Vertikal;Visited;;444550;9112857;BCRA;Ground Water Resource 82-83
+218;Cikal;;Girisekar;Panggang;Vertikal;Mapped;;441839;9113391;BCRA;Ground Water Resource 82-83
+219;Gebang;;Girisuko;Panggang;Vertikal;Mapped;Hidrologi;436934;9115101;BCRA;Ground Water Resource 82-83
+220;Pongkok;;;;Vertikal;Mapped;;458406;9113321;BCRA;Ground Water Resource 82-83
+221;Song Jembul;;;;Vertikal;Mapped;;470880;9112439;BCRA;Ground Water Resource 82-83
+222;Tritis;;;;Horisontal;Visited;;456785;9105754;BCRA;Ground Water Resource 82-83
+223;Brangkong;;;;Horisontal;Visited;;453676;9101813;BCRA;Ground Water Resource 82-83
+224;Tepus;;;;Sumber;Visited;;476135;9111265;BCRA;Ground Water Resource 82-83
+225;Wonoseri;;;;Sumber;Visited;;465822;9096959;BCRA;Ground Water Resource 82-83
+226;Mutisari;;;;Sumber;Visited;;467086;9097707;BCRA;Ground Water Resource 82-83
+227;Beton;;;;Sumber;Visited;;469868;9121223;BCRA;Ground Water Resource 82-83
+228;Beton;;;;Sumber;Visited;;479621;9111817;BCRA;Ground Water Resource 82-83
+229;Teleng;;;;Sumber;Unexplored;;469959;9120806;BCRA;Ground Water Resource 82-83
+230;Puring;;;;Sumber;Visited;;468194;9096658;BCRA;Ground Water Resource 82-83
+231;Sambiroto;;;;Sumber;Visited;Hidrologi;479672;9108747;BCRA;Ground Water Resource 82-83
+232;Gedaren;;;Ponjong;Sumber;Visited;;469660;9119030;BCRA;Ground Water Resource 82-83
+233;Sulu;;;Ponjong;Sumber;Visited;Hidrologi;471113;9118896;BCRA;Ground Water Resource 82-83
+234;Nggremeng;;;Ponjong;Sumber;Visited;Hidrologi;469051;9121893;BCRA;Ground Water Resource 82-83
+235;Karangmojo;;;;Sumber;Visited;Hidrologi;447323;9117379;BCRA;Ground Water Resource 82-83
+236;Umbuldengkok;;;;Sumber;Visited;Hidrologi;455017;9114940;BCRA;Ground Water Resource 82-83
+237;Penuh;;;;Sumber;Visited;;450244;9115389;BCRA;Ground Water Resource 82-83
+238;Butiung / Pucung;;;;Vertikal;Mapped;;475600;9105500;BCRA;Ground Water Resource 82-83
+239;Ngerong;;;;Vertikal;Visited;;471800;9111400;BCRA;Ground Water Resource 82-83
+240;Ombo;;;;Vertikal;Visited;;469400;9112900;BCRA;Ground Water Resource 82-83
+241;NN;;;;Vertikal;Visited;;473500;9115000;BCRA;Ground Water Resource 82-83
+242;NN;;;;Vertikal;Visited;Hidrologi;473300;9114400;BCRA;Ground Water Resource 82-83
+243;Celeng;;;;Vertikal;Visited;;472300;9109200;BCRA;Ground Water Resource 82-83
+244;Cacahan;Muncar;Giripurwo;Purwosari;Vertikal;Visited;Hidrologi;434700;9112600;BCRA;Ground Water Resource 82-83
+245;Danggalo;;Girisuko;Panggang;Vertikal;Visited;;439200;9113500;BCRA;Ground Water Resource 82-83
+246;Wotawati;;Jetis;Paliyan;Vertikal;Mapped;;444200;9112600;BCRA;Ground Water Resource 82-83
+247;Buriomah;;Jetis;Paliyan;Vertikal;Mapped;;442700;9112000;BCRA;Ground Water Resource 82-83
+248;Bopo;;;;Vertikal;Visited;;450500;9104500;BCRA;Ground Water Resource 82-83
+249;NN;;;;Vertikal;Visited;;464800;9113200;BCRA;Ground Water Resource 82-83
+250;NN;;;;Vertikal;Visited;;464400;9113800;BCRA;Ground Water Resource 82-83
+251;Langkap;;;;Vertikal;Visited;;462100;9102200;BCRA;Ground Water Resource 82-83
+252;Kaligede;;Giripurwo;Purwosari;Vertikal;Visited;;434605;9112667;ASC;
+253;Jlumbang I;Jlumbang;Giripurwo;Purwosari;Vertikal;Mapped;;431783;9113262;PALAWA 2000;
+254;Jlumbang II;Jlumbang;Giripurwo;Purwosari;Vertikal;Mapped;;431911;9113269;PALAWA 2000;
+255;Nglampir;Jlumbang;Giripurwo;Purwosari;Vertikal;Mapped;;431694;9113640;PALAWA 2000;
+256;Pakis;Kacangan;Giripurwo;Purwosari;Vertikal;Mapped;Hidrologi;430794;9113374;PALAWA 2000;
+257;Wuto;Wuto;Giripurwo;Purwosari;Vertikal;Mapped;;432668;9109929;PALAWA 2000;
+258;Tapen;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;428548;9113419;PALAWA 2000;
+259;Plawan I;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;428599;9113336;PALAWA 2000;
+260;Plawan II;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;428541;9113285;PALAWA 2000;
+261;Kledok;Gabug;Giricahyo;Purwosari;Horisontal;Mapped;;429259;9113513;PALAWA 2000;
+262;Bale;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;429050;9113571;PALAWA 2000;
+263;Wringin;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;429006;9113975;PALAWA 2000;
+264;Plaket;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;428798;9114312;PALAWA 2000;
+265;Besole;Jambu;Giricahyo;Purwosari;Vertikal;Mapped;;429951;9112209;PALAWA 2000;
+266;Curug Boto;Jambu;Giricahyo;Purwosari;Vertikal;Mapped;;429861;9111995;ASC, PALAWA;
+267;Bem-bem;Jambu;Giricahyo;Purwosari;Vertikal;Mapped;Hidrologi;430295;9111713;ASC, PALAWA;
+268;Galis;Karang Tengah;Giricahyo;Purwosari;Vertikal;Mapped;;430200;9112618;ASC, PALAWA;
+269;Balong;Karang Tengah;Giricahyo;Purwosari;Vertikal;Mapped;;430413;9114210;PALAWA 2000;
+270;Ngganong;Karang Tengah;Giriasih;Purwosari;Vertikal;Mapped;;429975;9114371;PALAWA 2000;
+271;Pring Sembur;Karang Tengah;Giricahyo;Purwosari;Vertikal;Mapped;Hidrologi;430308;9113802;ASC, PALAWA;
+272;Mendhur;Karang Tengah;Giricahyo;Purwosari;Vertikal;Mapped;;430369;9113340;PALAWA 2000;
+273;Wonoangkrik;Trasih;Giriasih;Purwosari;Horisontal;Mapped;;429564;9114684;PALAWA 2000;
+274;Ndilem;Trasih;Giriasih;Purwosari;Vertikal;Mapped;;429753;9114914;PALAWA 2000;
+275;Pego;Ngoro-oro;Giriasih;Purwosari;Vertikal;Mapped;Hidrologi;430484;9115787;PALAWA 2000;
+276;Sigolo-golo;Ngoro-oro;Giriasih;Purwosari;Horisontal;Mapped;;430294;9116139;PALAWA 2000;
+277;Manggung;Klepu;Giriasih;Purwosari;Horisontal;Mapped;Hidrologi;428616;9115888;PALAWA 2000;
+278;Kali Kidul;Klepu;Giriasih;Purwosari;Horisontal;Mapped;;428784;9115265;PALAWA 2000;
+279;Kempleng;Petoyan;Giritirto;Purwosari;Vertikal;Mapped;Hidrologi;432643;9115640;PALAWA 2000;
+280;Branjang I;Petoyan;Giritirto;Purwosari;Vertikal;Mapped;Hidrologi;432837;9115142;PALAWA 2000;
+281;Branjang II;Petoyan;Giritirto;Purwosari;Vertikal;Mapped;Hidrologi;431537;9114429;PALAWA 2000;
+282;Nglangsep;Petoyan;Giritirto;Purwosari;Vertikal;Mapped;;431640;9114259;PALAWA 2000;
+283;Pilongko;Petoyan;Giritirto;Purwosari;Vertikal;Mapped;;431847;9113965;PALAWA 2000;
+284;Embuh;Susukan;Giritirto;Purwosari;Horisontal;Mapped;Tourisme;431757;9116247;PALAWA 2000;
+285;Tembus;Ngelegok;Giritirto;Purwosari;Horisontal;Mapped;Hidrologi;431956;9116065;PALAWA 2000;
+286;Jati;Ngelegok;Giritirto;Purwosari;Horisontal;Mapped;;431908;9116212;PALAWA 2000;
+287;Nn;Petoyan;Giritirto;Purwosari;Vertikal;Unexplored;;433467;9115188;ASC;
+288;Nggowok;Petoyan;Giritirto;Purwosari;Vertikal;Unexplored;;431065;9115404;ASC;
+289;Setro;wonolegi;Giriasih;Purwosari;Vertikal;Unexplored;;430867;9115408;ASC;
+290;Badut;;Giriasih;Purwosari;Vertikal;Unexplored;;430362;9114999;ASC;
+291;Klegon;Petoyan;Giritirto;Purwosari;Vertikal;Unexplored;;432277;9115251;ASC;
+292;Ngisep-ngisep;Petoyan;Giritirto;Purwosari;Vertikal;Unexplored;;431968;9115551;ASC;
+293;Nggrinjing;Ngoro-oro;Giriasih;Purwosari;Vertikal;Unexplored;;430648;9114686;;
+294;Gondang 1;;;;Vertikal;Unexplored;;463415;9111958;YA 1999;
+295;Gondang 2;;;;Vertikal;Unexplored;;463375;9111991;YA 1999;
+296;Jumblengan;;;;Vertikal;Unexplored;;463573;9111950;YA 1999;
+297;Sangupati;;;;Vertikal;Unexplored;;462378;9113212;YA 1999;
+298;Song Toto;;;;Horisontal;Unexplored;;462188;9113337;YA 1999;
+299;Toto1;;;;Vertikal;Unexplored;;462197;9113308;YA 1999;
+300;Toto2;;;;Vertikal;Unexplored;;462202;9113248;YA 1999;
+301;Song Terus;;Karangduwet;Paliyan;Horisontal;Unexplored;;442991;9114897;YA 1999;
+302;Jemblongan;;Karangduwet;Paliyan;Horisontal;Unexplored;;443221;9115853;YA 1999;
+303;Ngeleng;;;;Horisontal;Unexplored;;450828;9112865;YA 1999;
+304;Pari;;;;Vertikal;Unexplored;;451568;9112682;YA 1999;
+305;Wot Siti;;;;Vertikal;Unexplored;;456189;9112695;YA 1999;
+306;Tumbul;;;;Vertikal;Unexplored;;456193;9112671;YA 1999;
+307;Blimbing;;;;Vertikal;Unexplored;;456099;9112705;YA 1999;
+308;Mulo 1;;;;Horisontal;Unexplored;;454780;9112609;YA 1999;
+309;Mulo 2;;;;Horisontal;Unexplored;;454762;9112597;YA 1999;
+310;Sumurup;;;;Horisontal;Unexplored;;452375;9112202;YA 1999;
+311;Ngasinan;;Jetis;Paliyan;Horisontal;Unexplored;;445394;9112664;YA 1999;
+312;Blendung;;;;Horisontal;Unexplored;;449164;9112762;YA 1999;
+313;Dawung;;Girisekar;Panggang;Vertikal;Unexplored;;441833;9113067;YA 1999;
+314;Dremowongso;;Girisuko;Panggang;Vertikal;Unexplored;;439163;9113162;YA 1999;
+315;Bendo;;Girisuko;Panggang;Vertikal;Unexplored;;438868;9113861;YA 1999;
+316;Dilem;;Girisuko;Panggang;Vertikal;Unexplored;;438539;9113689;YA 1999;
+317;Jeruk;;Girimulyo;Panggang;Vertikal;Unexplored;;438299;9112635;YA 1999;
+318;Blerong;;;;Vertikal;Unexplored;;437259;9114196;YA 1999;
+319;Ngasem;;Girimulyo;Panggang;Vertikal;Unexplored;;437594;9113417;YA 1999;
+320;Banyu betah;;Girisuko;Panggang;Vertikal;Unexplored;;437975;9114069;YA 1999;
+321;Tembelang;;Girisuko;Panggang;Horisontal;Unexplored;;438083;9114327;YA 1999;
+322;Senen/ Plebengan;;Girisuko;Panggang;Horisontal;Unexplored;;438061;9114526;YA 1999;
+323;Blekatak;;Girisuko;Panggang;Vertikal;Unexplored;;438557;9114254;YA 1999;
+324;Gandu 1;;Girisuko;Panggang;Vertikal;Unexplored;;437129;9115650;YA 1999;
+325;Gandu 2;;Girisuko;Panggang;Vertikal;Unexplored;;437110;9115659;YA 1999;
+326;Wuluh Kumet 1;;Girisuko;Panggang;Vertikal;Mapped;;437391;9115986;YA 1999;
+327;Wuluh Kumet 2;;Girisuko;Panggang;Vertikal;Mapped;Hidrologi;437284;9116007;YA 1999;
+328;Wuluh Kumet 3;;Girisuko;Panggang;Vertikal;Unexplored;;437208;9116222;YA 1999;
+329;Krinjing;;Girisuko;Panggang;Vertikal;Unexplored;;437434;9116562;YA 1999;
+330;Ngejring;;Girisuko;Panggang;Horisontal;Unexplored;;436776;9116918;YA 1999;
+331;Ngrenggong;;Girisuko;Panggang;Vertikal;Unexplored;;436564;9117259;YA 1999;
+332;Ngasinan;;Girisuko;Panggang;Vertikal;Unexplored;;436349;9117315;YA 1999;
+333;Soko/ Donoyo;;;Panggang;Horisontal;Sketches;;435974;9117390;YA 1999;
+334;Jurug;;;;Vertikal;Unexplored;;436031;9116580;YA 1999;
+335;Tlatar;;Girisuko;Panggang;Vertikal;Unexplored;;436346;9116364;YA 1999;
+336;Ngalur;;Girisuko;Panggang;Vertikal;Mapped;;438563;9115548;YA 1999;
+337;Sembungan;;Girisuko;Panggang;Vertikal;Unexplored;;438882;9115281;YA 1999;
+338;Song Suren;Temu Ireng 2;Girisuko;Panggang;Horisontal;Mapped;;439122;9115325;YA - EB ACY III 2000;
+339;Gandu;Temu Ireng 2;Girisuko;Panggang;Vertikal;Mapped;;438963;9115094;YA - EB ACY III 2000;
+340;Grubug;Temu Ireng;Girisuko;Panggang;Vertikal;Mapped;Hidrologi;436039;9115953;YA;
+341;Klumpit;;;;Vertikal;Unexplored;;436133;9115859;YA;
+342;Bleseh 1;Gebang;Girisuko;Panggang;Vertikal;Mapped;;436733;9116078;YA - EB ACY III 2000;
+343;Bleseh 2;Gebang;Girisuko;Panggang;Vertikal;Mapped;;436829;9115998;YA - EB ACY III 2000;
+344;Gemuling;Gebang;Girisuko;Panggang;Vertikal;Mapped;;436815;9115693;YA - EB ACY III 2000;
+345;Kuburan;;Girisuko;Panggang;Vertikal;Unexplored;;436820;9115500;YA;
+346;Kuniran;;Girisuko;Panggang;Vertikal;Unexplored;;437715;9115667;YA;
+347;Singo;Gebang;Girisuko;Panggang;Vertikal;Mapped;;437788;9115845;YA - EB ACY III 2000;
+348;Tlosor;;Girisuko;Panggang;Vertikal;Unexplored;;438016;9116047;YA;
+349;Dersono;Dempul;Girisuko;Panggang;Vertikal;Mapped;;437909;9116184;YA - EB ACY III 2000;
+350;Kidang Mati;;Girisuko;Panggang;Vertikal;Unexplored;;437668;9116222;YA;
+351;Bata;;Giriwungu;Panggang;Vertikal;Mapped;;437700;9108800;Sekber 95;
+352;Mbamban;;Girikerto;Panggang;Vertikal;Visited;;440300;9105200;Sekber 95;
+353;Besetran;;Girimulyo;Panggang;Vertikal;Mapped;;437500;9111400;Sekber 95;
+354;Pucung;;Girikerto;Panggang;Vertikal;Mapped;;440500;9105800;Sekber 95;
+355;Jotak;;Girisekar;Panggang;Vertikal;Mapped;;439300;9108700;Sekber 95;
+356;Song Grubug;;Girikerto;Panggang;Horisontal;Mapped;;438800;9107900;Sekber 95;
+357;Sioux;;;;Vertikal;Mapped;;437900;9109800;Sekber 95;
+358;Kepundung;;Girikerto;Panggang;Vertikal;Mapped;;437700;9107400;Sekber 95;
+359;Duren;;Girikerto;Panggang;Vertikal;Mapped;;438300;9108500;Sekber 95;
+360;Kemusu;;Girimulyo;Panggang;Vertikal;Mapped;;437500;9108700;Sekber 95;
+361;Besole;;Girikerto;Panggang;Vertikal;Mapped;;437800;9108600;Sekber 95;
+362;Song Padang;;Girikerto;Panggang;Horisontal;Visited;;438100;9106800;Sekber 95;
+363;Padang;;Girikerto;Panggang;Vertikal;Visited;;438100;9107400;Sekber 95;
+364;NN/ doy;;;;;Unexplored;;431476;9112394;ASC;
+365;NN/ King;;;;;Unexplored;;430932;9115207;ASC;
+366;Tapen;Putat;Songbanyu;Girisubo;Vertikal;;;479800;9094535;ASC;
+367;Margatindak;Putat;Sungbanyu;Girisubo;Vertikal;Unexplored;;478636;9094080;ASC;
+368;Lasgung1;Putat;Songbanyu;Girisubo;Vertikal;Unexplored;;478601;9094262;ASC;
+369;Lasgung2;Putat;Songbanyu;Girisubo;Sumber;Unexplored;;478631;9094395;ASC;
+370;Banteng;Planjan;Kemadang;Tanjung Sari;Vertikal;Unexplored;;453706;9104113;ASC2004;
+371;Glagah;Planjan;Kemadang;Tanjung Sari;Vertikal;Unexplored;;450321;9104604;ASC2004;
+372;Ngeleng;;Kemadang;Tanjung Sari;Vertikal;Unexplored;;453241;9101048;ASC2004;
+373;Manjang;;Kemadang;Tanjung Sari;Vertikal;Unexplored;;452085;9101013;ASC2004;
+374;Cambahan 1;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;453024;9101551;ASC2004;
+375;Cambahan 2;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;453002;9101533;ASC2004;
+376;Kesumba;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;450020;9102691;ASC2004;
+377;Ombo 1;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;450784;9104310;ASC2004;
+378;Ombo 2;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;450863;9104337;ASC2004;
+379;Ombo 3;Karanglor;Kemadang;Tanjung Sari;Vertikal;Unexplored;;450906;9104215;ASC2004;
+380;Tangkil;Wonosobo;Kemadang;Tepus;Vertikal;Unexplored;;454827;9103187;ASC2004;
+381;Betah;Wonosobo;Ngestirejo;Tepus;Vertikal;Unexplored;;455093;9100755;ASC2004;
+382;Cabak;Bruno 2;Ngestirejo;Tepus;Vertikal;Unexplored;;456112;9101207;ASC2004;
+383;Poksungsang;Pulekulon;Sidoarjo;Tepus;Vertikal;Unexplored;;456330;9100458;ASC2004;
+384;Gringting;Pulekulon;Sidoarjo;Tepus;Vertikal;Unexplored;;456993;9101138;ASC2004;
+385;Pak Warak 1;Bruno 2;Ngestirejo;Tepus;Horisontal;Unexplored;;454580;9099784;ASC2004;
+386;Pak Warak 2;Bruno 3;Ngestirejo;Tepus;Horisontal;Unexplored;;454558;9099892;ASC2004;
+387;Pak Warak 3;Bruno 4;Ngestirejo;Tepus;Horisontal;Unexplored;;454641;9099932;ASC2004;
+388;Cantelan;Gesing1;Gesing;Tepus;Vertikal;Unexplored;;464458;9100853;ASC2004;
+389;Gesing;Gesing2;Gesing;Tepus;Vertikal;Unexplored;;464313;9100842;ASC2004;
+390;Kayusapi;Kemiri1;Tepus;Tepus;Vertikal;Unexplored;;463048;9101458;ASC2004;
+391;Pringsurut;Kemiri1;Tepus;Tepus;Vertikal;Unexplored;;463555;9103451;ASC2004;
+392;Cogrong;Gondang;Tepus;Tepus;Vertikal;Unexplored;;464314;9102741;ASC2004;
+393;Kolakkosa;Giripanggung;Tepus;Tepus;Vertikal;Unexplored;;464838;9104630;ASC2004;
+394;Bedug;Giripanggung;Tepus;Tepus;Vertikal;Unexplored;;465728;9105226;ASC2004;
+395;Bong Mati;Giripanggung;Balong;Tepus;Vertikal;Unexplored;;467165;9098867;ASC2004;
+396;Mbrojol;Giripanggung;Jepitu;Tepus;Vertikal;Unexplored;;468164;9097767;ASC2004;
+397;Ngibeng;Giripanggung;Jepitu;Tepus;Horisontal;Unexplored;;468063;9098050;ASC2004;
+398;Curug;Ngelo 1;Jepitu;Tepus;Vertikal;Unexplored;;466756;9099725;ASC2004;
+399;Nn;Ngande;Jepitu;Tepus;Vertikal;Unexplored;;466190;9099194;ASC2004;
+400;Jurug;Cepogo;Purwodadi;Tepus;Vertikal;Unexplored;;465386;9098740;ASC2004;
+401;Kajor;Cepogo;Purwodadi;Tepus;Vertikal;Unexplored;;465749;9099913;ASC2004;
+402;Sedayu;Cepogo;Purwodadi;Tepus;Vertikal;Unexplored;;466369;9101186;ASC2004;
+403;Bentar;Kenis;Purwodadi;Tepus;Vertikal;Unexplored;;465313;9101212;ASC2004;
+404;Watugombong;Gesing;Purwodadi;Tepus;Horisontal;Unexplored;;464851;9100379;ASC2004;
+405;Sirik;Botodayan;Botodayan;Rongkop;Vertikal;Unexplored;;468273;9101086;ASC2004;
+406;Puley;Sandikidul;Botodayan;Rongkop;Vertikal;Unexplored;;468505;9101639;ASC2004;
+407;Tekek;Mojing;Botodayan;Rongkop;Vertikal;Unexplored;;467666;9101663;ASC2004;
+408;Kenteng 1;Kenteng;Botodayan;Rongkop;Vertikal;Unexplored;;469655;9103015;ASC2004;
+409;Kenteng 2;Kenteng;Botodayan;Rongkop;Horisontal;Unexplored;;469642;9103055;ASC2004;
+410;Klareyan 1;Kembang;Botodayan;Rongkop;Vertikal;Unexplored;;470288;9103670;ASC2004;
+411;Klareyan 2;Kembang;Botodayan;Rongkop;Vertikal;Unexplored;;470376;9103639;ASC2004;
+412;Gelas;Siyono;Petir;Baron;Vertikal;Unexplored;;470811;9104303;ASC2004;
+413;Jonjong;Momblong;Botodayan;Rongkop;Vertikal;Unexplored;;469055;9102201;ASC2004;
+414;Seropan;Ngelo;Botodayan;Rongkop;Vertikal;Unexplored;;469242;9102315;ASC2004;
+415;Setro Glinting;Condong;Botodayan;Rongkop;Vertikal;Unexplored;;469809;9101498;ASC2004;
+416;Bandung;Burondo;Girisekar;Panggang;Vertikal;Mapped;;439640;9112746;Sekber IV 2003;
+417;Ledhok;Waru;Girimulyo;Panggang;Vertikal;Mapped;;439184;9112508;Sekber IV 2003;
+418;Keceme;Waru;Girimulyo;Panggang;Horisontal;Mapped;;438920;9112910;Sekber IV 2003;
+419;Ndanggolo;Waru;Girimulyo;Panggang;Vertikal;Mapped;;439131;9113134;Sekber IV 2003;
+420;Ngawen;Kadisobo;Girimulyo;Panggang;Vertikal;Mapped;;438947;9112423;Sekber IV 2003;
+421;Ndawung I;Kadisobo;Girimulyo;Panggang;Vertikal;Mapped;;438381;9113393;Sekber IV 2003;
+422;Ndawung II;Kadisobo;Girimulyo;Panggang;Vertikal;Mapped;;438276;9113425;Sekber IV 2003;
+423;Nangka;Kadisobo;Girimulyo;Panggang;Vertikal;Mapped;;438276;9113425;Sekber IV 2003;
+424;Ngresik;Kadisobo;Girimulyo;Panggang;Vertikal;Mapped;;438404;9113018;Sekber IV 2003;
+425;Gunung Sang;Bali;Girisekar;Panggang;Vertikal;Mapped;;440901;9109461;Sekber IV 2003;
+426;Ledhok Jambe;Bali;Girisekar;Panggang;;Unexplored;;440975;9109587;Sekber IV 2003;
+427;Santen;Bali;Girisekar;Panggang;;Unexplored;;440759;9109733;Sekber IV 2003;
+428;Ngrau;Mendak;Girisekar;Panggang;Vertikal;Mapped;;441405;9111756;Sekber IV 2003;
+429;Mbarong;Mendak;Girisekar;Panggang;Vertikal;Mapped;;441523;9110352;Sekber IV 2003;
+430;Wotawati;Mendak;Girisekar;Panggang;Vertikal;Mapped;;441467;9110100;Sekber IV 2003;
+431;Mblethok Tengah;Mendak;Girisekar;Panggang;;Unexplored;;441332;9109689;Sekber IV 2003;
+432;Mblethok Kidul;Mendak;Girisekar;Panggang;Vertikal;Mapped;;441327;9109568;Sekber IV 2003;
+433;Njothak;Blimbing;Girisekar;Panggang;;Unexplored;;441313;9113231;Sekber IV 2003;
+434;Gondosore Tengah;Blimbing;Girisekar;Panggang;Vertikal;Mapped;;441390;9113194;Sekber IV 2003;
+435;Gondosore Kidul;Blimbing;Girisekar;Panggang;Vertikal;Mapped;;441416;9113156;Sekber IV 2003;
+436;Sokka;Mendak;Girisekar;Panggang;Vertikal;Mapped;;442309;9111528;Sekber IV 2003;
+437;Pucung;Pucung;Girisekar;Panggang;;Unexplored;;442626;9111841;Sekber IV 2003;
+438;Lemah;Mendak;Girisekar;Panggang;;Unexplored;;441242;9111176;Sekber IV 2003;
+439;Pule;Mendak;Girisekar;Panggang;;Unexplored;;441446;9110670;Sekber IV 2003;
+440;Mblethok Lor;Mendak;Girisekar;Panggang;;Unexplored;;441344;9109810;Sekber IV 2003;
+441;Njotak;Pucang;Girisekar;Panggang;;Unexplored;;440388;9110690;Sekber IV 2003;
+442;Semab;Pucang;Girisekar;Panggang;;Unexplored;;440415;9110655;Sekber IV 2003;
+443;Nggepeng;Pucang;Girisekar;Panggang;;Unexplored;;440365;9110594;Sekber IV 2003;
+444;Gepeng;Pijinan;Girisekar;Panggang;Vertikal;Mapped;;442494;9112709;Sekber IV 2003;
+445;Bendo Growong;Pijinan;Girisekar;Panggang;;Unexplored;;442123;9112768;Sekber IV 2003;
+446;Cikal;Jeruken;Girisekar;Panggang;Horisontal;Mapped;;442229;9113567;Sekber IV 2003;
+447;Seropan;Ketonggo;Gombang;Ponjong;hors, vert;Mapped;;465105;9113736;ASC 1988;
+448;Plawan;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;428466;9113013;Mapala STTL 97;
+449;Branjang;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;;;ASC 92;
+450;Kayu Ares;Gabug;Giricahyo;Purwosari;Vertikal;Mapped;;;;ASC 93;
+451;Watu Tumpeng/ Watu Belah;;Girimulyo;Panggang;Horisontal;Sketches;;434853;9106763;YA 2004;
+452;Gremeng;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;469175;9122074;ASC 1988;
+453;Banyu Sumurup;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 1995;
+454;Siti Jemblong;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 1995;
+455;Seropan-gremeng;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 1995;
+456;Plalar;Plalar;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 1995;
+457;Kalimati;Plalar;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 1995;
+458;Cokro;Blimbing;Umbulrejo;Ponjong;Vertikal;Mapped;;469241;9122376;ASC 1995;
+459;Tlogo;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;469502;9122834;ASC 1995;
+460;Jelok;Blimbing;Umbulrejo;Ponjong;Horisontal;Mapped;;;;ASC 2004;
+461;Lawa;Sumber Giri;Umbulrejo;Ponjong;Horisontal;Sketches;;;;ASC 1995;
+462;Ondo;Sumber Giri;Umbulrejo;Ponjong;Horisontal;Unexplored;;;;YA 2008;
+463;Gimeng;Sawahan;Umbulrejo;Ponjong;Vertikal;Unexplored;;;;YA 2008;
+464;Paesan / Cenguk;Sawahan;Umbulrejo;Ponjong;Horisontal;Mapped;;473994;9121516;ASC 1995, YA 1999;
+465;Waru;Tukluk;Tambakromo;Ponjong;Vertikal;Unexplored;;473976;9121080;Geografi 2009;
+466;Dilem;Duwet;Purwodadi;Tepus;Horisontal;Sketches;;;;ASC 2007;
+467;Senen ;Duwet;Purwodadi;Tepus;Vertikal;Sketches;;;;ASC 2007;
+468;Cerme;Srunggo;Selopamioro;Bantul;Horisontal;Mapped;;;;ASC 1988;
+469;Ploso / Pring Wulung;Ploso;Giriasih;Panggang;Horisontal;Mapped;;443286;9108469;ASC 1988;
+470;Bekah;Temon;Giripurwo;Purwosari;Horisontal;Mapped;;431712;9107721;ASC 1996, YA 2004, Sekber V 2005;
+471;L. Ombo;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432777;9109204;EB-ACY-Sekber V 2005;
+472;L. Wuto;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432668;9109929;EB-ACY-Sekber V 2005;
+473;L. Mban-mban;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432433;9109331;EB-ACY-Sekber V 2005;
+474;Plandakan;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432260;9109852;EB-ACY-Sekber V 2005;
+475;Karang Melung I;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;433080;9109813;EB-ACY-Sekber V 2005;
+476;Karang Melung II;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;;;EB-ACY-Sekber V 2005;
+477;L. Duren;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432347;9108749;EB-ACY-Sekber V 2005;
+478;L. Ngulet;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432841;9108880;EB-ACY-Sekber V 2005;
+479;L. Kesari;Kesari;Giripurwo;Purwosari;Vertikal;Mapped;;433037;9111284;EB-ACY-Sekber V 2005;
+480;L. Cabe;Temon;Giripurwo;Purwosari;Vertikal;Mapped;;432010;9108981;EB-ACY-Sekber V 2005;
+481;L. Ngiser;Widoro;Giripurwo;Purwosari;Vertikal;Mapped;;433575;9109152;EB-ACY-Sekber V 2005;
+482;L. Widoro;Widoro;Giripurwo;Purwosari;Vertikal;Mapped;;434414;9111564;EB-ACY-Sekber V 2005;
+483;L. Tumbelang;Tlogowarak;Giripurwo;Purwosari;Vertikal;Mapped;;431981;9112212;EB-ACY-Sekber V 2005;
+484;L. Singo;Widoro;Giripurwo;Purwosari;Vertikal;Mapped;;435009;9113378;EB-ACY-Sekber V 2005;
+485;Pego;Tlogowarak;Giripurwo;Purwosari;Vertikal;Mapped;;;;EB-ACY-Sekber V 2005;
+486;Kambil Ketil;Widoro;Giripurwo;Purwosari;Vertikal;Mapped;;435111;9112973;EB-ACY-Sekber V 2005;
+487;L. Cawan;;Giripurwo;Purwosari;Vertikal;Mapped;;431794;9112599;EB-ACY-Sekber V 2005;
+488;L. Krenceng I;Tlogowarak;Giripurwo;Purwosari;Vertikal;Mapped;;432189;9112072;EB-ACY-Sekber V 2005;
+489;L. Krenceng II;Tlogowarak;Giripurwo;Purwosari;Vertikal;Mapped;;432187;9112065;EB-ACY-Sekber V 2005;
+490;L. Ngringin I;Ngringin;Giripurwo;Purwosari;Vertikal;Unexplored;;;;EB-ACY-Sekber V 2005;
+491;L. Ngringin II;Ng;Giripurwo;Purwosari;Vertikal;Unexplored;;431398;9111871;EB-ACY-Sekber V 2005;
+492;L. Bandung I;Tlogowarak;Giripurwo;Purwosari;Vertikal;Unexplored;;431882;9110695;EB-ACY-Sekber V 2005;
+493;L. Bandung II;Tlogowarak;Giripurwo;Purwosari;Vertikal;Unexplored;;431882;9110695;EB-ACY-Sekber V 2005;
+494;Melikan;Tlogowarak;Giripurwo;Purwosari;Vertikal;Unexplored;;432170;9111370;EB-ACY-Sekber V 2005;
+495;L. Jati;Widoro;Giripurwo;Purwosari;Vertikal;Unexplored;;;;EB-ACY-Sekber V 2005;
+496;Pawateng;Pawateng;Giripurwo;Purwosari;Vertikal;Unexplored;;;;EB-ACY-Sekber V 2005;
+497;L. Palgading;Tlogowarak;Giripurwo;Purwosari;Vertikal;Unexplored;;;;EB-ACY-Sekber V 2005;
+498;L. Belimbing;Tlogowarak;Giripurwo;Purwosari;Vertikal;Unexplored;;432034;9111666;EB-ACY-Sekber V 2005;
+499;Gua Sumbawang;;Giripurwo;Purwosari;Horisontal;Unexplored;;;;EB-ACY-Sekber V 2005;
+500;Gondang;Temon;Giripurwo;Purwosari;Horisontal;Unexplored;;433043;9110594;EB-ACY-Sekber V 2005;
+501;L. Lareyan1;Guwokarang;Botodayaan;Rongkop;Vertikal;Mapped;;470398;9103710;EB-ACY-Sekber VI 2008;
+502;L. Lareyan2;Guwokarang;Botodayaan;Rongkop;Vertikal;Mapped;;470485;9103678;EB-ACY-Sekber VI 2008;
+503;L. Embes;Klepu;Botodayaan;Rongkop;Vertikal;Mapped;;468873;9104346;EB-ACY-Sekber VI 2008;
+504;L. Ngandong;Klepu;Botodayaan;Rongkop;Vertikal;Mapped;;469050;9104430;EB-ACY-Sekber VI 2008;
+505;L. Telahap;Cabe;Botodayaan;Rongkop;Vertikal;Mapped;;469752;9104628;EB-ACY-Sekber VI 2008;
+506;L. Sempok;Cabe;Botodayaan;Rongkop;Vertikal;Mapped;;470037;9104848;EB-ACY-Sekber VI 2008;
+507;L. Geblok;Cabe;Botodayaan;Rongkop;Vertikal;Mapped;;470264;9105028;EB-ACY-Sekber VI 2008;
+508;Song Cabak;Kerjo;Botodayaan;Rongkop;Horisontal;Mapped;;470165;9105388;EB-ACY-Sekber VI 2008;
+509;L. Sumur;Guwokarang;Botodayaan;Rongkop;Vertikal;Mapped;;469390;9103746;EB-ACY-Sekber VI 2008;
+510;L. Tlogo;Guwokarang;Botodayaan;Rongkop;Vertikal;Mapped;;470172;9103628;EB-ACY-Sekber VI 2008;
+511;L. Mumpang;Guwokarang;Botodayaan;Rongkop;Vertikal;Mapped;;470238;9103548;EB-ACY-Sekber VI 2008;
+512;L. Dadapbong;Pringombo B;Pringombo;Rongkop;Vertikal;Mapped;;473164;9104508;EB-ACY-Sekber VI 2008;
+513;L. Gunungresik/ Ngluweng;Pringombo A;Pringombo;Rongkop;Vertikal;Mapped;;472163;9104944;EB-ACY-Sekber VI 2008;
+514;Gua Keramean 1;Tirisan;Pringombo;Rongkop;Horisontal;Mapped;;471372;9106848;EB-ACY-Sekber VI 2008;
+515;Gua Keramean 2;Tirisan;Pringombo;Rongkop;Horisontal;Mapped;;471493;9106828;EB-ACY-Sekber VI 2008;
+516;L. Mendak;Tirisan;Pringombo;Rongkop;Vertikal;Mapped;;471902;9106950;EB-ACY-Sekber VI 2008;
+517;L. Ampel;Tirisan;Pringombo;Rongkop;Vertikal;Mapped;;472043;9106420;EB-ACY-Sekber VI 2008;
+518;L. Pugeran;Semugih;Semugih;Rongkop;Vertikal;Mapped;;473550;9106234;EB-ACY-Sekber VI 2008;
+519;Gua Plalar;Plalar;Pringombo;Rongkop;Horisontal;Mapped;;472800;9103834;EB-ACY-Sekber VI 2008;
+520;L. Buh Kidul Pakel;Pakel;Pringombo;Rongkop;Vertikal;Mapped;;472972;9103602;EB-ACY-Sekber VI 2008;
+521;L. Gandek;Pakel;Pringombo;Rongkop;Vertikal;Mapped;;472890;9103602;EB-ACY-Sekber VI 2008;
+522;Gua Tlogo Pakel;Kayangan;Pringombo;Rongkop;Horisontal;Mapped;;473391;9103992;EB-ACY-Sekber VI 2008;
+523;Gua Watulawang;Plalar;Pringombo;Rongkop;Horisontal;Mapped;;;;EB-ACY-Sekber VI 2008;
+524;L. Pulley;Ginkungan;Botodayaan;Rongkop;Vertikal;Mapped;;468616;9101677;EB-ACY-Sekber VI 2008;
+525;L. Sirik;Boto Tengah;Botodayaan;Rongkop;Vertikal;Mapped;;468413;9101117;EB-ACY-Sekber VI 2008;
+526;L.Tekek;;Botodayaan;Rongkop;Vertikal;Mapped;;467767;9101699;EB-ACY-Sekber VI 2008;
+527;L.Brengos;Brengos;Botodayaan;Rongkop;Vertikal;Mapped;;469745;9103098;EB-ACY-Sekber VI 2008;
+528;L. Blintung;;Botodayaan;Rongkop;Vertikal;Mapped;;469925;9101539;EB-ACY-Sekber VI 2008;
+529;L. Seropan;Lemah Amblong;Botodayaan;Rongkop;Vertikal;Mapped;;469355;9102363;EB-ACY-Sekber VI 2008;
+530;L. Jurang jero;Kedung;Botodayaan;Rongkop;Vertikal;Mapped;;468929;9103321;EB-ACY-Sekber VI 2008;
+531;L. Bedok;;Botodayaan;Rongkop;Vertikal;Mapped;;468408;9100698;EB-ACY-Sekber VI 2008;
+532;L. Glagah Ombo 1;;Botodayaan;Rongkop;Vertikal;Mapped;;469547;9100039;EB-ACY-Sekber VI 2008;
+533;L. Glagah Ombo 2;;Botodayaan;Rongkop;Vertikal;Mapped;;469643;9100049;EB-ACY-Sekber VI 2008;
+534;L. Suruh;Suruh;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+535;L. Sengon;;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+536;L. Boto;Pringwulung;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+537;L. Pringwulung;Ngondel Kulon;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+538;L.Wana Trebis;Ngondel Wetan;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+539;L. Tembelang;Klumpit;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+540;L. Jrembeng;Bibis;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+541;L. Srumbung;Sentul;Kanigoro;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+542;L. Pelem Jengger;Sentul;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+543;L. Kaget;Nyemuh;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+544;L. Klego;Ngondel Kulon;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+545;L. Banyu Sumurup;Karanggunung;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+546;L. Alas Kobong;Nglumpit;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+547;L. Nglumprit;Nglumpit;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+548;L. Paing;;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+549;L. Ngejring;;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+550;L. Nganyuk;Ngondel Kulon;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+551;L.Ngandhu;Ngondel Wetan;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+552;L. Banteng;Karanggunung;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+553;L. NN;Karanggunung;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+554;L. Jeblos;;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+555;L. Ngentak;Bibis;Krambilsawit;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+556;L. Bedalo;Bedalo;;Saptosari;;;;;;ASC - EB-ACY-Sekber II - 1997;
+557;L. Ngelo;Bedalo;;Saptosari;;;;;;ASC 1997;
+558;L. Towati;;;Saptosari;;;;;;ASC 1997;
+559;L. Kepyok;;;Saptosari;;;;;;ASC 1997;
+560;L. Kayu Bang;;;Saptosari;;;;;;ASC 1997;
+561;L. Pengason;;Mendak;Saptosari;;;;;;ASC 1997;
+562;L. Weru;;Mendak;Saptosari;;;;;;ASC 1997;
+563;L. Jomblang;;Mendak;Saptosari;;;;;;ASC 1997;
+564;L. Sentul;Sentul;Kanigoro;Saptosari;;;;;;ASC 1997;
+565;L. Bandung;;Mendak;Saptosari;;;;;;ASC 1997;
+566;L. Jrangkang;;Mendak;Saptosari;;;;;;ASC 1997;
+567;L. Kembang;;Mendak;Saptosari;;;;;;ASC 1997;
+568;L. Ngampel;;Mendak;Saptosari;;;;;;ASC 1997;
+569;L. NN;;Mendak;Saptosari;;;;;;ASC 1997;
+570;L. Bengkak;;Mendak;Saptosari;;;;;;ASC 1997;
+571;L. Niti;;Mendak;Saptosari;;;;;;ASC 1997;
+572;L. Sumuran;;Mendak;Saptosari;;;;;;ASC 1997;
+573;L. Glagah;;Mendak;Saptosari;;;;;;ASC 1997;
+574;L. Sumur;Gebang;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+575;L. Tlagan;Dempul;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+576;L. Tuk Bunder;;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+577;L. Song Sekar;Temu Ireng 2;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+578;L. Gunung Semut;Temu Ireng 2;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+579;L. Dempul;Dempul;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+580;L. Temugiring;Temu Ireng 2;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+581;L. Ngalur;Temu Ireng 2;Girisuko;Panggang;;;;;;EB-ACY-Sekber III - 2000;
+582;Glontor;;;Jepitu;Vertikal;Belum di xplor;;469361;9097936;Pangea Cruiser Fak. Geologi UPN;
+583;Mbelong;;;Jepitu;Vertikal;Belum di xplor;;469189;9098534;Pangea Cruiser Fak. Geologi UPN;
+584;Pak Dondong;;;Jepitu;Vertikal;Belum di xplor;;469473;9097163;Pangea Cruiser Fak. Geologi UPN;
+585;Gua Pasung;;;Jepitu;Horisontal;Sudah di xplor;;469568;9095680;Pangea Cruiser Fak. Geologi UPN;
+586;Madaran;;;Jepitu;Vertikal;Sudah di xplor;;469568;9095680;Pangea Cruiser Fak. Geologi UPN;
+587;Condong;;;Jepitu;Vertikal;Sudah di xplor;;468367;9097850;Pangea Cruiser Fak. Geologi UPN;
+588;Puring;;;Jepitu;Horisontal;Sudah di xplor;;468043;9096680;Pangea Cruiser Fak. Geologi UPN;
+589;Weru;;;Jepitu;Horisontal;Sudah di xplor;;468141;9096182;Pangea Cruiser Fak. Geologi UPN;
+590;Mbolot;;;Jepitu;Horisontal;Belum di xplor;;468476;9095950;Pangea Cruiser Fak. Geologi UPN;
+591;Banyu Sumurup;;;Jepitu;Horisontal;Sudah di xplor;;468896;9094316;Pangea Cruiser Fak. Geologi UPN;
+592;Ngeweng;;;Jepitu;Horisontal;Sudah di xplor;;468938;9094172;Pangea Cruiser Fak. Geologi UPN;
+593;Sumbon;;;Jepitu;Horisontal;Belum di xplor;;468698;9095140;Pangea Cruiser Fak. Geologi UPN;
+594;Sumur;;;Jepitu;Sumuran;Belum di xplor;;468089;9096156;Pangea Cruiser Fak. Geologi UPN;
+595;Mbolot;;;Jepitu;Sumuran;Sudah di xplor;;468448;9095994;Pangea Cruiser Fak. Geologi UPN;
+596;Gejelok;;;Jepitu;Vertikal;Tidak bisa di xplor;;468020;9098212;Pangea Cruiser Fak. Geologi UPN;
+597;Panguripan;;;Jepitu;Vertikal;Tidak bisa di xplor;;468969;9094947;Pangea Cruiser Fak. Geologi UPN;
+598;Kedok;;;Jepitu;Vertikal;Belum di xplor;;469992;9097140;Pangea Cruiser Fak. Geologi UPN;
+599;Gandok;;;Jepitu;Vertikal;Belum di xplor;;470762;9096505;Pangea Cruiser Fak. Geologi UPN;
+600;Pinutuh;;;Jepitu;Vertikal;Belum di xplor;;470126;9095983;Pangea Cruiser Fak. Geologi UPN;
+601;Setro;;;Jepitu;Vertikal;Belum di xplor;;470525;9095936;Pangea Cruiser Fak. Geologi UPN;
+602;Setro 2;;;Jepitu;Vertikal;Belum di xplor;;470712;9095833;Pangea Cruiser Fak. Geologi UPN;
+603;No Name;;;Jepitu;Vertikal;Belum di xplor;;470401;9095864;Pangea Cruiser Fak. Geologi UPN;
+604;bulusepet;;;Jepitu;Vertikal;Belum di xplor;;470540;9095450;Pangea Cruiser Fak. Geologi UPN;
+605;Duren;;;Jepitu;Horisontal;Belum di xplor;;468441;9097121;Pangea Cruiser Fak. Geologi UPN;
+606;Pulejajar;;;Jepitu;Vertikal;Belum di xplor;;468805;9095615;Pangea Cruiser Fak. Geologi UPN;
+607;Candi 1;;;Karangmojo;;;;462154;9122901;KKN Fak. Geografi UGM 2009;
+608;Candi 2;;;Karangmojo;;;;461998;9122828;KKN Fak. Geografi UGM 2009;
+609;Candi 5;;;Karangmojo;;;;462278;9122949;KKN Fak. Geografi UGM 2009;
+610;Candi 3;;;Karangmojo;;;;461955;9122764;KKN Fak. Geografi UGM 2009;
+611;Candi 4;;;Karangmojo;;;;461917;9122775;KKN Fak. Geografi UGM 2009;
+612;??;Gelaran 1 (Belakang SD);;Karangmojo;;;;460588;9123885;KKN Fak. Geografi UGM 2009;
+613;Ngluweng;Gelaran 1;;Karangmojo;;;;460609;9124056;KKN Fak. Geografi UGM 2009;
+614;Suruh;Gelaran 2;;Karangmojo;;;;461621;9122745;KKN Fak. Geografi UGM 2009;
+615;???;Gelaran 1;;Karangmojo;;;;460605;9123811;KKN Fak. Geografi UGM 2009;
+616;Plumpit;Kulwo;;Karangmojo;;;;461213;9122505;KKN Fak. Geografi UGM 2009;
+617;Glatik;Gelaran 1;;Karangmojo;;;;461202;9123768;KKN Fak. Geografi UGM 2009;
+618;Greeng;Grogol 2;;Karangmojo;;;;458323;9123738;KKN Fak. Geografi UGM 2009;
+619;Seropan;Grogol 2;;Karangmojo;;;;458218;9123959;KKN Fak. Geografi UGM 2009;
+620;Ngledok;Gelaran 2;;Karangmojo;;;;461038;9123312;KKN Fak. Geografi UGM 2009;
+621;Pindul;Gelaran 2;;Karangmojo;;;;461204;9123450;KKN Fak. Geografi UGM 2009;
+622;Gelbang;Gunungbang;;Karangmojo;;;;461458;9123578;KKN Fak. Geografi UGM 2009;
+623;??;Gelaran 1;;Karangmojo;;;;460622;9124037;KKN Fak. Geografi UGM 2009;
+624;??;Gelaran 1;;Karangmojo;;;;460588;9124152;KKN Fak. Geografi UGM 2009;
+625;Suwiryo;Gelaran 1;;Karangmojo;;;;460600;9124262;KKN Fak. Geografi UGM 2009;
+626;Ngancar;Gelaran 2;;Karangmojo;;;;461407;9123125;KKN Fak. Geografi UGM 2009;
+627;Siyoyot;Gelaran 2;;Karangmojo;;;;461578;9122977;KKN Fak. Geografi UGM 2009;
+628;Sumurup;Banyubening 2;;Karangmojo;;;;461133;9123019;KKN Fak. Geografi UGM 2009;
+629;Njebul;Banyubening 2;;Karangmojo;;;;461012;9122748;KKN Fak. Geografi UGM 2009;
+630;Gedang / Ngancar;Gelaran 2;;Karangmojo;;;;461385;9123109;KKN Fak. Geografi UGM 2009;
+631;Kedung Buntung;Gelaran 2;;Karangmojo;;;;461305;9123117;KKN Fak. Geografi UGM 2009;
+632;Banyumoto;Gelaran 1;;Karangmojo;;;;461162;9123707;KKN Fak. Geografi UGM 2009;
+633;Gedong;Gelaran 2;;Karangmojo;;;;461207;9123822;KKN Fak. Geografi UGM 2009;
+634;Pindul;Gelaran 1;;Karangmojo;;;;461333;9123536;KKN Fak. Geografi UGM 2009;
+635;Sruwoh;Banyubening 2;;Karangmojo;;;;461064;9122923;KKN Fak. Geografi UGM 2009;
+636;Sumberan;Grogol 5;;Karangmojo;;;;459547;9123597;KKN Fak. Geografi UGM 2009;
+637;Kedung Pit;Karanglor;;Karangmojo;;;;459991;9123711;KKN Fak. Geografi UGM 2009;
+638;Grogol;Grogol 3;;Karangmojo;;;;459241;9123594;KKN Fak. Geografi UGM 2009;
+639;Mudal;Ngringin;;Karangmojo;;;;461116;9122285;KKN Fak. Geografi UGM 2009;
+640;Beji;Kulwo;;Karangmojo;;;;460976;9122378;KKN Fak. Geografi UGM 2009;
+641;Gunung Abang;Gunung Abang;;Karangmojo;;;;461836;9123828;KKN Fak. Geografi UGM 2009;
+642;Nyamplung;Banyubening 2;;Karangmojo;;;;460431;9123392;KKN Fak. Geografi UGM 2009;
+643;Bulu;Bulu;;Karangmojo;;;;459460;9124265;KKN Fak. Geografi UGM 2009;
+644;Mplek;Grogol 2;;Karangmojo;;;;458442;9124326;KKN Fak. Geografi UGM 2009;
+645;Semilih;Karangmojo;;Karangmojo;;;;460654;9123525;KKN Fak. Geografi UGM 2009;
+646;Sumur Cilik;Sokoliman;;Karangmojo;;;;462359;9125118;KKN Fak. Geografi UGM 2009;
+647;Sumur Gede;Sokoliman;;Karangmojo;;;;462199;9124960;KKN Fak. Geografi UGM 2009;
+648;Njambe;Mbulu;;Karangmojo;;;;460110;9124440;KKN Fak. Geografi UGM 2009;
+649;L. Gunung Cilik;Pijiman;Tambakromo;Ponjong;;;;473320;9121393;Kelompok Studi Karst F.Geografi UGM 2010;
+650;L. Pringapus;Guluwatu;Tambakromo;Ponjong;;;;474233;9121246;Kelompok Studi Karst F.Geografi UGM 2010;
+651;L. Waru;Guluwatu;Tambakromo;Ponjong;;;;473976;9121080;Kelompok Studi Karst F.Geografi UGM 2010;
+652;L. Plalangan;Klumpit;Kenteng;Ponjong;;;;472826;9120723;Kelompok Studi Karst F.Geografi UGM 2010;
+653;L. Wuto;jarak;kenteng;Ponjong;;;;472533;9118701;Kelompok Studi Karst F.Geografi UGM 2010;
+654;L. Jomblang;jomblang lor;karangasem;Ponjong;;;;473352;9115143;Kelompok Studi Karst F.Geografi UGM 2010;
+655;L. Jati;bedoyo kidul;bedoyo;Ponjong;;;;471756;9113224;Kelompok Studi Karst F.Geografi UGM 2010;
+656;L. Jembul;bedoyo kidul;bedoyo;Ponjong;;;;470726;9112453;Kelompok Studi Karst F.Geografi UGM 2010;
+657;L. Sombo;pokrandu;gombang;Ponjong;;;;465766;9113611;Kelompok Studi Karst F.Geografi UGM 2010;
+658;L. Bendo;pokrandu;gombang;Ponjong;;;;465884;9113838;Kelompok Studi Karst F.Geografi UGM 2010;
+659;L. Lebuh;;gombang;Ponjong;;;;467709;9113042;Kelompok Studi Karst F.Geografi UGM 2010;
+660;L. Ngrisik;ngrejek wetan;gombang;Ponjong;;;;467459;9111948;Kelompok Studi Karst F.Geografi UGM 2010;
+661;L. Songo;poko;sidorejo;Ponjong;;;;466843;9116266;Kelompok Studi Karst F.Geografi UGM 2010;
+662;G. Krendo;;Tambak romo;Ponjong;;;;473753;9121162;Kelompok Studi Karst F.Geografi UGM 2010;
+663;G. Gunung Gua;Pijiman;Tambak romo;Ponjong;;;;473485;9121712;Kelompok Studi Karst F.Geografi UGM 2010;
+664;G. Rinjani;Klumpit;Kenteng;Ponjong;;;;472596;9120175;Kelompok Studi Karst F.Geografi UGM 2010;
+665;G. Gilap;Klumpit;Kenteng;Ponjong;;;;472970;9119480;Kelompok Studi Karst F.Geografi UGM 2010;
+666;G. Munggur;;Kenteng;Ponjong;;;;472655;9118976;Kelompok Studi Karst F.Geografi UGM 2010;
+667;G. Towo;Klepu;Karangasem;Ponjong;;;;472455;9113672;Kelompok Studi Karst F.Geografi UGM 2010;
+668;Besole;;;Tepus;;;;461242;9100499;EB - ACY VIII, 2011;
+669;Buto;;;Tepus;;;;460371;9102188;EB - ACY VIII, 2011;
+670;Kempul;;;Tepus;;;;460207;9099783;EB - ACY VIII, 2011;
+671;Klothok;;;Tepus;;;;459775;9100916;EB - ACY VIII, 2011;
+672;Mabang;;;Tepus;;;;460690;9100733;EB - ACY VIII, 2011;
+673;Manguwah;;;Tepus;;;;458561;9098812;EB - ACY VIII, 2011;
+674;Ndadabong;;;Tepus;;;;458856;9098812;EB - ACY VIII, 2011;
+675;Ngasem;;;Tepus;;;;460068;9101230;EB - ACY VIII, 2011;
+676;Panjung;;;Tepus;;;;456990;9099268;EB - ACY VIII, 2011;
+677;Pucung Kidul;;;Tepus;;;;460221;9101970;EB - ACY VIII, 2011;
+678;Pucung Lor;;;Tepus;;;;460386;9102127;EB - ACY VIII, 2011;
+679;Bedilan;;;Tepus;;;;460032;9102446;EB - ACY VIII, 2011;
+680;Kalongan;;;Tepus;;;;460425;9101079;EB - ACY VIII, 2011;
+681;Alas Tlogo Mati;;;Tepus;;;;462306;9101285;EB - ACY VIII, 2011;
+682;Blekonang;;;Tepus;;;;460870;9102419;EB - ACY VIII, 2011;
+683;Ceruk;;;Tepus;;;;461613;9102114;EB - ACY VIII, 2011;
+684;Tegal Branjanga;;;Tepus;;;;461711;9101762;EB - ACY VIII, 2011;
+685;Kentheng;;;Tepus;;;;462101;9100260;EB - ACY VIII, 2011;
+686;Luweng Ngibeng;;;Tepus;;;;459484;9099410;EB - ACY VIII, 2011;
+687;Banyu Mudal;;;Tepus;;;;459639;9097471;EB - ACY VIII, 2011;
+688;Sungap;;;Tepus;;;;459671;9097932;EB - ACY VIII, 2011;
