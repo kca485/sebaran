@@ -14,15 +14,15 @@ interface SearchProps {
 function Search(props: SearchProps) {
   const { mapRef, featuresData, onSearchClose } = props;
   const [query, setQuery] = useState('');
-  const [results, setResults] = useState([] as Fuse.FuseResult<string>[]);
-  const fuseRef = useRef({} as Fuse<string>);
+  const [results, setResults] = useState([] as Fuse.FuseResult<Feature>[]);
+  const fuseRef = useRef({} as Fuse<Feature>);
 
   useEffect(() => {
-    const index = featuresData.reduce((arr: string[], feature) => {
-      if (feature.properties) arr.push(feature.properties.NAMA);
+    const index = featuresData.reduce((arr: Feature[], feature) => {
+      if (feature.properties) arr.push(feature);
       return arr;
     }, []);
-    fuseRef.current = new Fuse(index);
+    fuseRef.current = new Fuse(index, { keys: ['properties.NAMA'] });
   }, []);
 
   const handleQueryChange = (e: React.ChangeEvent) => {

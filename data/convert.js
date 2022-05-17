@@ -21,6 +21,9 @@ Papa.parse(contentStream, {
           type: 'Feature',
           properties: {
             NAMA: row.NAMA,
+            DUSUN: row.DUSUN,
+            DESA: row.DESA,
+            KECAMATAN: row.KECAMATAN,
             JENIS: row.JENIS,
             STATUS: row.STATUS,
             POTENSI: row.POTENSI,
