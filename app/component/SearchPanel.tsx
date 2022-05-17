@@ -42,12 +42,8 @@ function Search(props: SearchProps) {
     const { id } = e.target as HTMLElement;
     const { geometry } = featuresData[parseInt(id, 10)];
     if (geometry.type === 'Point') {
-      const c: L.LatLngExpression = [
-        geometry.coordinates[1],
-        geometry.coordinates[0],
-      ];
       if (mapRef && mapRef.current) {
-        mapRef.current.flyTo(c, 16);
+        mapRef.current.flyTo(geometry.coordinates as L.LatLngExpression, 16);
       }
     }
   };
