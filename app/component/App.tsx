@@ -75,7 +75,7 @@ function initMap() {
             radius: 6,
           },
         ).addTo(mapRef.current);
-        const location = `${geometry.coordinates[1]},${geometry.coordinates[0]}`;
+        const location = JSON.stringify(geometry.coordinates);
         const popupContent = `<table>
             <tr>
               <th scope="row">NAMA</th>
