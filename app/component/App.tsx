@@ -40,7 +40,7 @@ function App() {
             </button>
           )
       }
-      <div id="map" className="h-screen" />
+      <div id="map" className="h-full" />
     </>
   );
 }
