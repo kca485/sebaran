@@ -64,7 +64,6 @@ function initMap() {
       'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}',
       {
         id: 'mapbox/satellite-streets-v11',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
       },
     );
