@@ -57,7 +57,7 @@ function initMap() {
     const streetTile = L.tileLayer(
       'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       },
     );
     const satelliteTile = L.tileLayer(
@@ -67,7 +67,7 @@ function initMap() {
         accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
         tileSize: 512,
         zoomOffset: -1,
-        attribution: '© <a href="https://www.mapbox.com/contribute/">Mapbox</a>',
+        attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank"><strong>Improve this map</strong></a>',
       },
     );
     const terrainTile = L.tileLayer(
@@ -77,7 +77,7 @@ function initMap() {
         accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
         tileSize: 512,
         zoomOffset: -1,
-        attribution: '© <a href="https://www.mapbox.com/contribute/">Mapbox</a>',
+        attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank"><strong>Improve this map</strong></a>',
       },
     );
     streetTile.addTo(mapRef.current);
