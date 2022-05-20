@@ -70,11 +70,22 @@ function initMap() {
         attribution: '© <a href="https://www.mapbox.com/contribute/">Mapbox</a>',
       },
     );
+    const terrainTile = L.tileLayer(
+      'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}',
+      {
+        id: 'kca485/cl3etab72000014o8agfwpj9h',
+        accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
+        tileSize: 512,
+        zoomOffset: -1,
+        attribution: '© <a href="https://www.mapbox.com/contribute/">Mapbox</a>',
+      },
+    );
     streetTile.addTo(mapRef.current);
 
     const tiles = {
       'Peta jalan': streetTile,
       'Peta satelit': satelliteTile,
+      'Peta kontur': terrainTile,
     };
     L.control.layers(tiles, undefined, { position: 'bottomleft' }).addTo(mapRef.current);
 
