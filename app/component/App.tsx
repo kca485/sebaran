@@ -87,7 +87,7 @@ function initMap() {
       'Peta satelit': satelliteTile,
       'Peta kontur': terrainTile,
     };
-    L.control.layers(tiles, undefined, { position: 'bottomleft' }).addTo(mapRef.current);
+    L.control.layers(tiles, undefined, { position: 'topleft' }).addTo(mapRef.current);
 
     L.control.locate({ setView: 'once' }).addTo(mapRef.current);
 
