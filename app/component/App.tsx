@@ -33,7 +33,7 @@ function App() {
             <button
               type="button"
               onClick={handleSearchPanel}
-              className="absolute z-1100 right-0 border-2 border-solid border-black border-opacity-20 rounded bg-white mt-2.5 mr-2.5 flex"
+              className="absolute z-1100 right-0 border-2 border-solid border-black border-opacity-20 rounded bg-white mt-2.5 mr-2.5 flex bg-clip-padding"
             >
               <span className="bg-[url('./images/search-line.svg')] bg-no-repeat bg-center h-7 w-7" />
               <span className="sr-only">Buka panel pencarian</span>
