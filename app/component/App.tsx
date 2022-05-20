@@ -65,6 +65,9 @@ function initMap() {
       {
         id: 'mapbox/satellite-streets-v11',
         accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
+        tileSize: 512,
+        zoomOffset: -1,
+        attribution: '© <a href="https://www.mapbox.com/contribute/">Mapbox</a>',
       },
     );
     streetTile.addTo(mapRef.current);
