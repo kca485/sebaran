@@ -53,12 +53,28 @@ function initMap() {
       [-8.2, 110.3],
       [-7.9, 110.8],
     ]);
-    L.tileLayer(
+
+    const streetTile = L.tileLayer(
       'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
       },
-    ).addTo(mapRef.current);
+    );
+    const satelliteTile = L.tileLayer(
+      'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}',
+      {
+        id: 'mapbox/satellite-streets-v11',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        accessToken: 'pk.eyJ1Ijoia2NhNDg1IiwiYSI6ImNsM2RqaTQyNjAxbXEzZG1rbDk1dDhxd3EifQ.OgV0imkW3Wor1pnIPvJs_Q',
+      },
+    );
+    streetTile.addTo(mapRef.current);
+
+    const tiles = {
+      'Peta jalan': streetTile,
+      'Peta satelit': satelliteTile,
+    };
+    L.control.layers(tiles, undefined, { position: 'bottomleft' }).addTo(mapRef.current);
 
     L.control.locate({ setView: 'once' }).addTo(mapRef.current);
 
