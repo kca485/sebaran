@@ -9,10 +9,16 @@ interface SearchProps {
   mapRef: React.RefObject<L.Map>;
   featuresData: Feature[];
   onSearchClose(): void;
+  onMenuClose(): void;
 }
 
 function Search(props: SearchProps) {
-  const { mapRef, featuresData, onSearchClose } = props;
+  const {
+    mapRef,
+    featuresData,
+    onSearchClose,
+    onMenuClose,
+  } = props;
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([] as Fuse.FuseResult<Feature>[]);
   const fuseRef = useRef({} as Fuse<Feature>);
@@ -46,18 +52,18 @@ function Search(props: SearchProps) {
         mapRef.current.flyTo(geometry.coordinates as L.LatLngExpression, 16);
       }
     }
-    onSearchClose();
+    onMenuClose();
   };
 
   return (
-    <div className="absolute top-0 right-0 z-1100 h-full max-h-full w-full max-w-sm overflow-y-scroll bg-white px-6">
+    <div>
       <button
         type="button"
         onClick={onSearchClose}
-        className="absolute right-0 mt-2.5 mr-2.5 flex"
+        className="absolute top-0 left-0 mt-2.5 ml-2.5 flex"
       >
-        <span className="bg-[url('./images/close-line.svg')] bg-no-repeat bg-center h-7 w-7" />
-        <span className="sr-only">Tutup panel pencarian</span>
+        <span className="bg-[url('./images/arrow-left-s-line.svg')] bg-no-repeat bg-center h-7 w-7" />
+        menu
       </button>
       <SearchForm
         query={query}
