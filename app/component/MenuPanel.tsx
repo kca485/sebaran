@@ -53,10 +53,10 @@ function MenuPanel(props: MenuPanelProps) {
               <nav>
                 <ul>
                   <li>
-                    <Link to="./">Beranda</Link>
+                    <Link to="./" onClick={onMenuClose}>Beranda</Link>
                   </li>
                   <li>
-                    <Link to="./basis-data">Basis data</Link>
+                    <Link to="./basis-data" onClick={onMenuClose}>Basis data</Link>
                   </li>
                 </ul>
               </nav>
