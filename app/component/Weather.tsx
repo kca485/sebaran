@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 
 const GUNUNG_KIDUL_ID = '501189';
 const WEATHER_ID = 'weather';
-
 const condition = new Map([
   ['0', 'Cerah'],
   ['1', 'Cerah Berawan'],
@@ -56,7 +55,7 @@ function Weather() {
   }, []);
 
   const infoList = weatherInfo.map((info) => (
-    <li>{formatDateTime(info.dateTime)}: {condition.get(info.code)}</li>
+    <li>{formatDateTime(info.dateTime)} - {condition.get(info.code)}</li>
   ));
   return (
     <div>
