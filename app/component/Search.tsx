@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Fuse from 'fuse.js';
 import L from 'leaflet';
 import type { Feature } from 'geojson';
@@ -22,6 +23,7 @@ function Search(props: SearchProps) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([] as Fuse.FuseResult<Feature>[]);
   const fuseRef = useRef({} as Fuse<Feature>);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const index = featuresData.reduce((arr: Feature[], feature) => {
@@ -44,10 +46,11 @@ function Search(props: SearchProps) {
     }
   };
 
-  const handlePickResult = (e: React.MouseEvent) => {
+  const handlePickResult = async (e: React.MouseEvent) => {
     const { id } = e.currentTarget;
     const { geometry } = featuresData[parseInt(id, 10)];
     if (geometry.type === 'Point') {
+      await navigate('/');
       if (mapRef && mapRef.current) {
         mapRef.current.flyTo(geometry.coordinates as L.LatLngExpression, 16);
       }
