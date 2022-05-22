@@ -55,9 +55,6 @@ function MenuPanel(props: MenuPanelProps) {
                   <li>
                     <Link to="./" onClick={onMenuClose}>Beranda</Link>
                   </li>
-                  <li>
-                    <Link to="./basis-data" onClick={onMenuClose}>Basis data</Link>
-                  </li>
                 </ul>
               </nav>
             </div>
