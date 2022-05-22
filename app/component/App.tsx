@@ -7,6 +7,7 @@ import 'leaflet.locatecontrol/dist/L.Control.Locate.css';
 import distributionData from '../data/distributionData';
 import Map from './Map';
 import DataTable from './DataTable';
+import Weather from './Weather';
 import MenuPanel from './MenuPanel';
 
 function App() {
@@ -46,6 +47,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Map ref={mapRef} />} />
         <Route path="/basis-data" element={<DataTable />} />
+        <Route path="/cuaca" element={<Weather />} />
       </Routes>
     </>
   );
