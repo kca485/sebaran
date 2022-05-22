@@ -1,3 +1,4 @@
+import { divIcon } from 'leaflet';
 import React, { useState, useEffect } from 'react';
 
 const GUNUNG_KIDUL_ID = '501189';
@@ -64,6 +65,11 @@ function Weather() {
     <div className="flex justify-center">
       <div className="mt-10 mx-4">
         <h1 className="text-2xl">Cuaca Kabupaten Gunung Kidul</h1>
+        {
+          weatherInfo.length
+            ? null
+            : <div className="mt-4">mengambil data cuaca...</div>
+        }
         <table className="mt-4">
           <tbody>
             {infoList}
