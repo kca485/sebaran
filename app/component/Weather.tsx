@@ -63,7 +63,7 @@ function Weather() {
   return (
     <div className="flex justify-center">
       <div className="mt-10 mx-4">
-        <h1 className="text-2xl">Cuaca</h1>
+        <h1 className="text-2xl">Cuaca Kabutapen Gunung Kidul</h1>
         <table className="mt-4">
           <tbody>
             {infoList}
