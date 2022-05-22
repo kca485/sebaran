@@ -55,15 +55,22 @@ function Weather() {
   }, []);
 
   const infoList = weatherInfo.map((info) => (
-    <li>{formatDateTime(info.dateTime)} - {condition.get(info.code)}</li>
+    <tr key={info.dateTime}>
+      <td className="pb-2 pr-4">{formatDateTime(info.dateTime)}</td>
+      <td className="align-top">{condition.get(info.code)}</td>
+    </tr>
   ));
   return (
-    <div>
-      <h1>Cuaca</h1>
-      <ul>
-        {infoList}
-      </ul>
-      <small>sumber: <a href="https://data.bmkg.go.id/prakiraan-cuaca/">BMKG</a></small>
+    <div className="flex justify-center">
+      <div className="mt-10 mx-4">
+        <h1 className="text-2xl">Cuaca</h1>
+        <table className="mt-4">
+          <tbody>
+            {infoList}
+          </tbody>
+        </table>
+        <small>sumber: <a href="https://data.bmkg.go.id/prakiraan-cuaca/">BMKG</a></small>
+      </div>
     </div>
   );
 }
