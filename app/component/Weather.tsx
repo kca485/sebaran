@@ -1,4 +1,3 @@
-import { divIcon } from 'leaflet';
 import React, { useState, useEffect } from 'react';
 
 const GUNUNG_KIDUL_ID = '501189';
@@ -26,6 +25,7 @@ interface HourInfo {
 }
 function Weather() {
   const [weatherInfo, setWeatherInfo] = useState([] as HourInfo[]);
+  const [errorMessage, setErrorMessage] = useState('');
   useEffect(() => {
     fetch('/.netlify/functions/fetch-weather/fetch-weather.js')
       .then((res) => res.json())
@@ -34,11 +34,11 @@ function Weather() {
         const doc = parser.parseFromString(data.msg, 'application/xml');
         const errorNode = doc.querySelector('parsererror');
         if (errorNode) {
-          console.log('error while parsing');
+          setErrorMessage('gagal mengurai data');
         } else {
           const gkWeather = doc.querySelector(`[id='${GUNUNG_KIDUL_ID}'] [id='${WEATHER_ID}']`);
           if (!gkWeather) {
-            console.log('could not find weather info');
+            setErrorMessage('gagal mengambil informasi cuaca');
             return;
           }
 
@@ -66,9 +66,14 @@ function Weather() {
       <div className="mt-10 mx-4">
         <h1 className="text-2xl">Cuaca Kabupaten Gunung Kidul</h1>
         {
-          weatherInfo.length
+          weatherInfo.length && !errorMessage
             ? null
             : <div className="mt-4">mengambil data cuaca...</div>
+        }
+        {
+          errorMessage
+            ? <p>Error: {errorMessage}</p>
+            : null
         }
         <table className="mt-4">
           <tbody>
