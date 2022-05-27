@@ -3,5 +3,9 @@
     publish = "dist/"
 
 [[redirects]]
-    from = "/*"
+    from = "/cuaca"
+    to = "/"
+
+[[redirects]]
+    from = "/basis-data"
     to = "/"
