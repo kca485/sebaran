@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import L from 'leaflet';
-import distributionData from '../data/distributionData';
+import getFeatures from '../data/data';
 
 const Map = React.forwardRef((props, ref) => {
   const mapRef = ref as React.MutableRefObject<L.Map>;
@@ -49,49 +49,51 @@ const Map = React.forwardRef((props, ref) => {
 
       L.control.locate({ setView: 'once' }).addTo(mapRef.current);
 
-      distributionData.features.forEach((feature) => {
-        const { geometry, properties } = feature;
-        if (geometry.type === 'Point') {
-          const marker = L.circleMarker(
-            geometry.coordinates as L.LatLngExpression,
-            {
-              color: '#222222',
-              weight: 1,
-              fillColor: '#ff9911',
-              fillOpacity: 1,
-              radius: 6,
-            },
-          ).addTo(mapRef.current);
-          const location = JSON.stringify(geometry.coordinates);
-          const popupContent = `<table>
-              <tr>
-                <th scope="row">NAMA</th>
-                <td>${properties && properties.NAMA ? properties.NAMA : ''}</td>
-              </tr>
-              <tr>
-                <th scope="row">JENIS</th>
-                <td>${properties && properties.JENIS ? properties.JENIS : ''}</td>
-              </tr>
-              <tr>
-                <th scope="row">STATUS</th>
-                <td>${properties && properties.STATUS ? properties.STATUS : ''}</td>
-              </tr>
-              <tr>
-                <th scope="row">POTENSI</th>
-                <td>${properties && properties.POTENSI ? properties.POTENSI : ''}</td>
-              </tr>
-              <tr>
-                <th scope="row">SURVEYOR</th>
-                <td>${properties && properties.SURVEYOR ? properties.SURVEYOR : ''}</td>
-              </tr>
-              <tr>
-                <th scope="row">REFERENSI</th>
-                <td>${properties && properties.REFERENSI ? properties.REFERENSI : ''}</td>
-              </tr>
-            </table>
-            <a href="https://www.google.com/maps/search/?api=1&query=${location}" target="_blank" rel="noopener noreferrer" class="block mt-2">Cari di Google Maps</a>`;
-          marker.bindPopup(popupContent);
-        }
+      getFeatures().then((features) => {
+        features.forEach((feature) => {
+          const { geometry, properties } = feature;
+          if (geometry.type === 'Point') {
+            const marker = L.circleMarker(
+              geometry.coordinates as L.LatLngExpression,
+              {
+                color: '#222222',
+                weight: 1,
+                fillColor: '#ff9911',
+                fillOpacity: 1,
+                radius: 6,
+              },
+            ).addTo(mapRef.current);
+            const location = JSON.stringify(geometry.coordinates);
+            const popupContent = `<table>
+                <tr>
+                  <th scope="row">NAMA</th>
+                  <td>${properties && properties.NAMA ? properties.NAMA : ''}</td>
+                </tr>
+                <tr>
+                  <th scope="row">JENIS</th>
+                  <td>${properties && properties.JENIS ? properties.JENIS : ''}</td>
+                </tr>
+                <tr>
+                  <th scope="row">STATUS</th>
+                  <td>${properties && properties.STATUS ? properties.STATUS : ''}</td>
+                </tr>
+                <tr>
+                  <th scope="row">POTENSI</th>
+                  <td>${properties && properties.POTENSI ? properties.POTENSI : ''}</td>
+                </tr>
+                <tr>
+                  <th scope="row">SURVEYOR</th>
+                  <td>${properties && properties.SURVEYOR ? properties.SURVEYOR : ''}</td>
+                </tr>
+                <tr>
+                  <th scope="row">REFERENSI</th>
+                  <td>${properties && properties.REFERENSI ? properties.REFERENSI : ''}</td>
+                </tr>
+              </table>
+              <a href="https://www.google.com/maps/search/?api=1&query=${location}" target="_blank" rel="noopener noreferrer" class="block mt-2">Cari di Google Maps</a>`;
+            marker.bindPopup(popupContent);
+          }
+        });
       });
     }
 
