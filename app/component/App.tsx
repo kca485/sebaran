@@ -8,6 +8,8 @@ import distributionData from '../data/distributionData';
 import Map from './Map';
 import DataTable from './DataTable';
 import Weather from './Weather';
+import Login from './Login';
+import Password from './Password';
 import MenuPanel from './MenuPanel';
 
 function App() {
@@ -48,6 +50,8 @@ function App() {
         <Route path="/" element={<Map ref={mapRef} />} />
         <Route path="/basis-data" element={<DataTable />} />
         <Route path="/cuaca" element={<Weather />} />
+        <Route path="/masuk" element={<Login />} />
+        <Route path="/ganti-sandi" element={<Password />} />
       </Routes>
     </>
   );

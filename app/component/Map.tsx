@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import L from 'leaflet';
-import getFeatures from '../data/data';
+import { getFeatures } from '../data/data';
 
 const Map = React.forwardRef((props, ref) => {
   const mapRef = ref as React.MutableRefObject<L.Map>;

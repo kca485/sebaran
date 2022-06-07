@@ -5,7 +5,7 @@ const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
 const supabaseApiKey = import.meta.env.VITE_SUPABASE_API_KEY;
 const supabase = createClient(supabaseUrl, supabaseApiKey);
 
-export default async function getFeatures() {
+export async function getFeatures() {
   const { data, error } = await supabase.from('sebaran').select('*');
   if (error) {
     throw new Error(error.message);
@@ -44,3 +44,5 @@ export default async function getFeatures() {
 
   return features;
 }
+
+export default supabase;
