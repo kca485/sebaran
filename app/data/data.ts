@@ -5,11 +5,17 @@ const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
 const supabaseApiKey = import.meta.env.VITE_SUPABASE_API_KEY;
 const supabase = createClient(supabaseUrl, supabaseApiKey);
 
-export async function getFeatures() {
+export async function getData() {
   const { data, error } = await supabase.from('sebaran').select('*');
   if (error) {
     throw new Error(error.message);
   }
+
+  return data;
+}
+
+export async function getFeatures() {
+  const data = await getData();
 
   const features: GeoJSON.Feature[] = data.reduce((arr, row) => {
     if (row.x && row.y) {
