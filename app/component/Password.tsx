@@ -19,14 +19,23 @@ function Password() {
   }
 
   return (
-    <>
-      <h1>Kata Sandi</h1>
-      <form onSubmit={handleSubmit}>
-        <label htmlFor="new-password">Masukkan kata sandi baru:</label>
-        <input type="text" name="new-password" id="new-password" onChange={handleChange} value={newPassword} />
-        <button type="submit">Ok</button>
-      </form>
-    </>
+    <div className="flex justify-center">
+      <div className="mt-10 mx-4">
+        <h1 className="text-2xl">Kata Sandi</h1>
+        <form onSubmit={handleSubmit} className="max-w-md mt-4">
+          <label htmlFor="new-password">Masukkan kata sandi baru:</label>
+          <input
+            type="text"
+            name="new-password"
+            id="new-password"
+            onChange={handleChange}
+            value={newPassword}
+            className="block mb-4 border-2"
+          />
+          <button type="submit">Simpan</button>
+        </form>
+      </div>
+    </div>
   );
 }
 
