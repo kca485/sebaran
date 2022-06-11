@@ -21,13 +21,15 @@ function Login() {
   }
 
   return (
-    <form onSubmit={handleSubmit}>
-      <label htmlFor="email">Surel</label>
-      <input type="email" name="email" id="email" />
-      <label htmlFor="password">Kata sandi</label>
-      <input type="password" name="password" id="password" />
-      <button type="submit">Masuk</button>
-    </form>
+    <div className="flex justify-center">
+      <form onSubmit={handleSubmit} className="mt-10 mx-4">
+        <label htmlFor="email">Surel:</label>
+        <input type="email" name="email" id="email" className="block mb-4 border-2" />
+        <label htmlFor="password">Kata sandi:</label>
+        <input type="password" name="password" id="password" className="block mb-4 border-2" />
+        <button type="submit">Masuk</button>
+      </form>
+    </div>
   );
 }
 
