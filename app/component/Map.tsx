@@ -67,27 +67,27 @@ const Map = React.forwardRef((props, ref) => {
             const popupContent = `<table>
                 <tr>
                   <th scope="row">NAMA</th>
-                  <td>${properties && properties.NAMA ? properties.NAMA : ''}</td>
+                  <td>${properties && properties.nama ? properties.nama : ''}</td>
                 </tr>
                 <tr>
                   <th scope="row">JENIS</th>
-                  <td>${properties && properties.JENIS ? properties.JENIS : ''}</td>
+                  <td>${properties && properties.jenis ? properties.jenis : ''}</td>
                 </tr>
                 <tr>
                   <th scope="row">STATUS</th>
-                  <td>${properties && properties.STATUS ? properties.STATUS : ''}</td>
+                  <td>${properties && properties.status ? properties.status : ''}</td>
                 </tr>
                 <tr>
                   <th scope="row">POTENSI</th>
-                  <td>${properties && properties.POTENSI ? properties.POTENSI : ''}</td>
+                  <td>${properties && properties.potensi ? properties.potensi : ''}</td>
                 </tr>
                 <tr>
                   <th scope="row">SURVEYOR</th>
-                  <td>${properties && properties.SURVEYOR ? properties.SURVEYOR : ''}</td>
+                  <td>${properties && properties.surveyor ? properties.surveyor : ''}</td>
                 </tr>
                 <tr>
                   <th scope="row">REFERENSI</th>
-                  <td>${properties && properties.REFERENSI ? properties.REFERENSI : ''}</td>
+                  <td>${properties && properties.referensi ? properties.referensi : ''}</td>
                 </tr>
               </table>
               <a href="https://www.google.com/maps/search/?api=1&query=${location}" target="_blank" rel="noopener noreferrer" class="block mt-2">Cari di Google Maps</a>`;
