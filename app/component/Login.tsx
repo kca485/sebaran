@@ -10,10 +10,15 @@ function Login() {
       password: { value:string };
     };
 
-    const { user, error } = await supabase.auth.signIn({
-      email: form.email.value,
-      password: form.password.value,
-    });
+    const { user, error } = await supabase.auth.signIn(
+      {
+        email: form.email.value,
+        password: form.password.value,
+      },
+      {
+        redirectTo: 'https://sebaran.netlify.app/',
+      },
+    );
 
     if (error) {
       throw new Error(error.message);
